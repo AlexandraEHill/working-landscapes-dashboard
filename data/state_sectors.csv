@@ -1,0 +1,1378 @@
+state,sector,segment,jobs,sales,earnings,businesses
+Alabama,Accommodation and Food Services,Accommodation and Food Services,204688.56,16965371952.18,5397988142.02,11019.25
+Alabama,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,196793.98,15292281637.1,7215748687.73,9441.5
+Alabama,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",39754.91,2254873001.58,932639231.2,1307.75
+Alabama,Construction,Construction,171772.72,28189156960.74,11610510732.34,12521.0
+Alabama,Educational Services,Educational Services,41957.67,2617217272.52,1580031316.48,1610.5
+Alabama,Finance and Insurance,Finance and Insurance,144308.64,35415376291.5,12169319711.16,9696.75
+Alabama,Government,Government,439020.37,193462495203.13,34303340231.71,6410.0
+Alabama,Health Care and Social Assistance,Health Care and Social Assistance,277210.28,32682180250.46,18208553041.02,20933.0
+Alabama,Information,Information,33632.33,12035959416.36,2582990932.69,4964.75
+Alabama,Management of Companies and Enterprises,Management of Companies and Enterprises,21879.98,4407598239.55,2649291355.11,1034.5
+Alabama,Manufacturing,Manufacturing,214893.37,121222053249.94,19690201122.75,5045.75
+Alabama,Other Services (except Public Administration),Other Services (except Public Administration),188170.3,12827735446.39,5957862531.19,9721.0
+Alabama,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",180312.78,29953702057.95,16247784366.44,19304.75
+Alabama,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,158078.99,25487478107.54,7751638990.16,6311.25
+Alabama,Retail Trade,Retail Trade,287169.94,33933353978.89,11324000024.47,18129.5
+Alabama,Transportation and Warehousing,Transportation and Warehousing,125284.41,15503410833.24,6286604530.83,4289.0
+Alabama,Utilities,Utilities,12521.96,13570738297.95,2212940799.42,305.5
+Alabama,Wholesale Trade,Wholesale Trade,68241.46,20590723153.11,7008199600.28,9043.75
+Alabama,Working Landscapes,Agricultural Distribution,34736.66,6265356047.29,2133391536.51,2236.25
+Alabama,Working Landscapes,Agricultural Processing,38973.08,14374425214.71,2408912383.59,639.0
+Alabama,Working Landscapes,Agricultural Production,42480.02,9206412204.47,1952550068.74,655.5
+Alabama,Working Landscapes,Agricultural Support,18463.16,2974210577.94,986935519.39,1590.25
+Alabama,Working Landscapes,Fishing,2559.82,366605127.6,103137559.15,62.5
+Alabama,Working Landscapes,Forestry,43520.29,17444081631.68,3421990588.13,1733.0
+Alabama,Working Landscapes,Mining,19325.41,8890603818.02,1674781375.9,1022.0
+Alabama,Working Landscapes,Outdoor Recreation,7885.98,828867634.21,299570695.82,617.0
+Alabama,Working Landscapes,Renewable Energy,338.68,378547262.45,59716532.67,74.0
+Alaska,Accommodation and Food Services,Accommodation and Food Services,34602.03,3989113592.05,1315566243.24,1936.25
+Alaska,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,17828.66,2256621174.86,988076456.92,1705.75
+Alaska,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",7836.02,562651839.76,208845250.93,293.25
+Alaska,Construction,Construction,25383.11,6274897735.33,2556061381.08,2641.0
+Alaska,Educational Services,Educational Services,6213.58,378540950.38,218205523.44,434.5
+Alaska,Finance and Insurance,Finance and Insurance,13722.64,2681607441.93,893044107.79,899.5
+Alaska,Government,Government,103996.43,72371488813.81,9526059875.7,1767.25
+Alaska,Health Care and Social Assistance,Health Care and Social Assistance,54983.04,8724087321.34,4583739782.16,2468.75
+Alaska,Information,Information,6469.51,2666996402.74,553085969.22,525.25
+Alaska,Management of Companies and Enterprises,Management of Companies and Enterprises,4159.27,828016356.25,496977596.89,188.5
+Alaska,Manufacturing,Manufacturing,4486.62,4005610644.9,296939523.25,299.25
+Alaska,Other Services (except Public Administration),Other Services (except Public Administration),22147.12,2245009561.59,1036137674.17,1840.25
+Alaska,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",22485.37,3205307755.11,1764162457.36,2950.5
+Alaska,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,21582.36,4369893795.62,1244657840.56,696.75
+Alaska,Retail Trade,Retail Trade,41503.99,5743734317.93,1892897939.41,2153.5
+Alaska,Transportation and Warehousing,Transportation and Warehousing,30430.04,8361209687.22,2444439357.12,991.5
+Alaska,Utilities,Utilities,2094.76,1933318321.39,337155844.06,73.25
+Alaska,Wholesale Trade,Wholesale Trade,4880.5,2031839734.02,427650744.91,591.75
+Alaska,Working Landscapes,Agricultural Distribution,5329.24,891622207.58,305057360.86,336.25
+Alaska,Working Landscapes,Agricultural Processing,2009.37,480756391.16,85752502.6,147.5
+Alaska,Working Landscapes,Agricultural Production,2351.37,376412102.54,84551833.38,154.5
+Alaska,Working Landscapes,Agricultural Support,3165.1,480067987.06,266385933.52,243.0
+Alaska,Working Landscapes,Fishing,16527.46,4643084202.54,1110579059.37,255.75
+Alaska,Working Landscapes,Forestry,1069.39,171237322.93,51208654.54,86.5
+Alaska,Working Landscapes,Mining,15468.82,15201415675.03,2481150583.61,325.25
+Alaska,Working Landscapes,Outdoor Recreation,7353.19,966339285.81,370736202.61,826.5
+Alaska,Working Landscapes,Renewable Energy,379.68,301020229.32,46119603.09,15.25
+Arizona,Accommodation and Food Services,Accommodation and Food Services,331802.44,35967169658.67,11350170061.95,13791.5
+Arizona,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,324230.86,36944948028.29,17662834939.22,14462.0
+Arizona,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",85396.95,8454088247.28,3662345533.16,2587.0
+Arizona,Construction,Construction,299364.02,59019121281.48,23780642850.27,17891.5
+Arizona,Educational Services,Educational Services,111441.21,8842804708.06,5387904207.02,3534.0
+Arizona,Finance and Insurance,Finance and Insurance,318845.16,83148337464.51,28215215123.84,13426.75
+Arizona,Government,Government,465294.49,227345604108.71,40781623420.13,2799.75
+Arizona,Health Care and Social Assistance,Health Care and Social Assistance,518476.16,72391960340.63,38828517014.62,22392.0
+Arizona,Information,Information,69553.36,33765579511.51,7721077309.51,5609.75
+Arizona,Management of Companies and Enterprises,Management of Companies and Enterprises,57619.48,11655245415.31,6963619533.37,4892.75
+Arizona,Manufacturing,Manufacturing,168128.52,69501942290.09,19765969915.22,4486.75
+Arizona,Other Services (except Public Administration),Other Services (except Public Administration),233448.91,20235110402.22,9578590724.03,13947.0
+Arizona,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",284880.04,44374596031.1,24707729637.75,37145.75
+Arizona,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,289201.47,57631910091.18,16271769398.53,13166.0
+Arizona,Retail Trade,Retail Trade,405149.34,60458644543.03,19691447326.03,15951.5
+Arizona,Transportation and Warehousing,Transportation and Warehousing,256169.08,31732602537.08,12297360545.85,5155.5
+Arizona,Utilities,Utilities,10485.61,12279685294.94,1884144524.6,101.75
+Arizona,Wholesale Trade,Wholesale Trade,103630.97,46725963264.28,12301608603.37,13144.0
+Arizona,Working Landscapes,Agricultural Distribution,47371.62,10073666600.65,3248312510.59,3659.0
+Arizona,Working Landscapes,Agricultural Processing,24785.49,11600430770.51,1726138990.51,536.0
+Arizona,Working Landscapes,Agricultural Production,34022.91,6793012160.84,1577957134.36,882.5
+Arizona,Working Landscapes,Agricultural Support,26317.48,3766686003.14,1680528338.8,1866.5
+Arizona,Working Landscapes,Fishing,639.56,103716036.51,32264210.22,45.5
+Arizona,Working Landscapes,Forestry,13239.75,3702977503.82,965745125.46,651.75
+Arizona,Working Landscapes,Mining,33969.68,23922421090.9,3278978879.75,857.75
+Arizona,Working Landscapes,Outdoor Recreation,13792.79,1690839740.27,598303017.97,880.5
+Arizona,Working Landscapes,Renewable Energy,717.16,808723097.12,117092340.39,60.75
+Arkansas,Accommodation and Food Services,Accommodation and Food Services,126551.07,9931733588.22,3098628779.78,6693.25
+Arkansas,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,101697.47,8260790811.36,4102231638.63,6956.75
+Arkansas,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",22785.95,1952976849.51,629428486.93,880.0
+Arkansas,Construction,Construction,111512.78,16917748777.57,6932861767.48,8193.5
+Arkansas,Educational Services,Educational Services,26362.93,1605538797.14,987890291.25,1276.25
+Arkansas,Finance and Insurance,Finance and Insurance,82434.55,17501034851.97,5856080716.95,6140.75
+Arkansas,Government,Government,221606.7,81118424670.88,15418609754.41,4152.75
+Arkansas,Health Care and Social Assistance,Health Care and Social Assistance,209892.44,24040050924.36,13214682627.97,12871.0
+Arkansas,Information,Information,18932.37,6131427316.64,1373028239.6,2344.5
+Arkansas,Management of Companies and Enterprises,Management of Companies and Enterprises,41136.02,11654705314.79,6976869707.3,577.0
+Arkansas,Manufacturing,Manufacturing,89324.2,39841615602.54,6874705227.64,1893.75
+Arkansas,Other Services (except Public Administration),Other Services (except Public Administration),101227.89,7048133438.84,3227075607.12,6096.0
+Arkansas,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",78171.81,9878394545.02,5612283310.58,13154.25
+Arkansas,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,87515.67,12970839877.95,3998495465.45,4024.25
+Arkansas,Retail Trade,Retail Trade,169498.58,19937343862.95,6424486993.68,9991.75
+Arkansas,Transportation and Warehousing,Transportation and Warehousing,88063.69,13198762799.5,5090988617.92,3125.0
+Arkansas,Utilities,Utilities,7639.69,7201274854.55,1158546379.09,242.5
+Arkansas,Wholesale Trade,Wholesale Trade,40721.72,15442127416.48,4039539828.26,6256.0
+Arkansas,Working Landscapes,Agricultural Distribution,27967.05,6153970030.93,2078836613.08,2456.25
+Arkansas,Working Landscapes,Agricultural Processing,55687.62,21930201327.82,3364089072.24,457.75
+Arkansas,Working Landscapes,Agricultural Production,55370.88,12029206027.56,2513232995.91,1546.75
+Arkansas,Working Landscapes,Agricultural Support,16563.2,2343473076.75,915360740.74,1356.0
+Arkansas,Working Landscapes,Fishing,557.98,26697739.97,9296266.63,13.25
+Arkansas,Working Landscapes,Forestry,26853.41,9917283320.58,1969743070.1,1004.75
+Arkansas,Working Landscapes,Mining,15309.49,5968251312.58,1013529792.02,755.5
+Arkansas,Working Landscapes,Outdoor Recreation,4903.26,386577046.36,136148658.21,424.0
+Arkansas,Working Landscapes,Renewable Energy,41.73,35298939.68,5344169.57,15.75
+California,Accommodation and Food Services,Accommodation and Food Services,1831658.7,229555301476.06,70048068818.8,93650.5
+California,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,1503687.43,196095636416.47,92271869972.68,60287.75
+California,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",589724.51,90973956794.99,35612891213.76,33475.75
+California,Construction,Construction,1266820.01,284005501112.62,113700122454.34,95485.25
+California,Educational Services,Educational Services,591704.18,60735132846.89,35596343038.89,19715.75
+California,Finance and Insurance,Finance and Insurance,1381185.68,442839048377.9,162423275614.66,54015.75
+California,Government,Government,2873652.08,1582581256217.93,342790990327.08,36773.5
+California,Health Care and Social Assistance,Health Care and Social Assistance,3151640.97,434949227284.68,231156305858.4,735787.25
+California,Information,Information,682706.15,691999805737.41,172012229251.93,32403.75
+California,Management of Companies and Enterprises,Management of Companies and Enterprises,306792.69,102617164431.33,60918786682.86,4767.25
+California,Manufacturing,Manufacturing,1036914.15,677359268745.79,167318187256.56,33831.25
+California,Other Services (except Public Administration),Other Services (except Public Administration),1544526.26,129891903307.43,61450867567.27,106010.75
+California,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",2138474.53,548238712547.38,294872003979.63,175673.5
+California,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,1551237.69,357292349402.69,97706971824.9,66833.75
+California,Retail Trade,Retail Trade,1948000.88,323209340697.33,99875245780.37,97387.5
+California,Transportation and Warehousing,Transportation and Warehousing,1510755.92,223306439706.84,87548011565.97,40116.25
+California,Utilities,Utilities,55251.25,60257568066.39,12440110294.9,593.5
+California,Wholesale Trade,Wholesale Trade,551560.73,265339358806.05,66877520491.2,49714.0
+California,Working Landscapes,Agricultural Distribution,328295.91,75390990848.54,23467110361.14,24227.0
+California,Working Landscapes,Agricultural Processing,255541.84,124413061063.4,19947649111.67,8568.25
+California,Working Landscapes,Agricultural Production,298896.89,71708134055.07,18629278849.48,13238.25
+California,Working Landscapes,Agricultural Support,333072.28,39261947931.51,21643109092.13,16775.75
+California,Working Landscapes,Fishing,11207.01,2401445017.23,725460349.31,698.75
+California,Working Landscapes,Forestry,79488.52,26931058774.31,6439624675.4,3879.75
+California,Working Landscapes,Mining,75554.99,41468243411.14,7141085717.15,3152.75
+California,Working Landscapes,Outdoor Recreation,70845.88,9282770981.63,3243666385.15,4299.0
+California,Working Landscapes,Renewable Energy,8899.54,12869099799.46,1778535634.62,699.5
+Colorado,Accommodation and Food Services,Accommodation and Food Services,311120.72,34915437512.79,11598377731.7,15204.75
+Colorado,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,215652.77,26094679990.39,12506578997.25,14682.5
+Colorado,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",88638.27,8674050878.48,3481557046.92,3298.5
+Colorado,Construction,Construction,285441.21,55847985910.1,22983455649.35,23131.75
+Colorado,Educational Services,Educational Services,91142.89,6679172689.68,4016127882.72,4655.5
+Colorado,Finance and Insurance,Finance and Insurance,301727.51,81018768313.94,30698308942.43,14643.75
+Colorado,Government,Government,540386.25,240330573724.17,45220306767.46,3468.5
+Colorado,Health Care and Social Assistance,Health Care and Social Assistance,387198.42,50305307110.13,27958270968.59,23991.25
+Colorado,Information,Information,98504.93,58270339361.82,14381837315.64,6596.0
+Colorado,Management of Companies and Enterprises,Management of Companies and Enterprises,57402.63,17493102239.71,10524896022.97,4222.75
+Colorado,Manufacturing,Manufacturing,113790.17,48674926510.81,13020780049.32,4209.0
+Colorado,Other Services (except Public Administration),Other Services (except Public Administration),221624.85,20833182313.41,9891010270.48,20449.0
+Colorado,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",416972.1,84290853483.8,48488763782.48,55119.25
+Colorado,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,300802.28,66155108515.13,19284199214.44,15316.75
+Colorado,Retail Trade,Retail Trade,324489.38,44146862777.67,15136713155.85,16295.5
+Colorado,Transportation and Warehousing,Transportation and Warehousing,210612.4,34381244817.76,11834799450.86,4902.0
+Colorado,Utilities,Utilities,7855.4,8566119852.41,1491058370.81,259.25
+Colorado,Wholesale Trade,Wholesale Trade,95851.45,48548145234.62,13196922303.28,12123.75
+Colorado,Working Landscapes,Agricultural Distribution,55187.49,11435327959.51,3864748613.11,5178.25
+Colorado,Working Landscapes,Agricultural Processing,37584.73,19950188058.94,2908301223.26,1240.75
+Colorado,Working Landscapes,Agricultural Production,54018.23,9496031918.91,2121666117.43,1570.75
+Colorado,Working Landscapes,Agricultural Support,37306.48,5380249890.34,2856889706.76,3417.0
+Colorado,Working Landscapes,Fishing,1000.14,140245217.67,41448193.21,42.5
+Colorado,Working Landscapes,Forestry,12411.81,3634396424.4,1006019978.42,789.25
+Colorado,Working Landscapes,Mining,56523.62,43066170952.55,6816147331.58,2127.5
+Colorado,Working Landscapes,Outdoor Recreation,32682.02,3658981368.49,1416078099.62,1444.5
+Colorado,Working Landscapes,Renewable Energy,1044.25,1654600751.37,259124478.17,81.0
+Connecticut,Accommodation and Food Services,Accommodation and Food Services,139296.16,15140893236.87,4895322274.27,9487.49
+Connecticut,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,122339.98,16508408821.57,7774353264.47,9650.33
+Connecticut,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",47609.97,4388034703.88,1646576223.88,1835.98
+Connecticut,Construction,Construction,120617.71,24574046159.63,9758122970.48,9636.36
+Connecticut,Educational Services,Educational Services,104531.6,13468672286.15,7583399154.24,2645.68
+Connecticut,Finance and Insurance,Finance and Insurance,237831.68,102557256134.61,37733737705.46,8756.08
+Connecticut,Government,Government,241402.86,117802377655.6,24059816149.68,3402.52
+Connecticut,Health Care and Social Assistance,Health Care and Social Assistance,332144.03,47094935536.49,25314194384.48,21456.48
+Connecticut,Information,Information,42473.52,26800495659.41,6044494953.75,4789.15
+Connecticut,Management of Companies and Enterprises,Management of Companies and Enterprises,37346.55,12122032771.3,7180561565.41,1921.0
+Connecticut,Manufacturing,Manufacturing,144481.99,74760690953.11,18019103693.28,3638.22
+Connecticut,Other Services (except Public Administration),Other Services (except Public Administration),123675.52,11261064048.9,5372591274.85,13289.9
+Connecticut,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",168157.58,36845309332.3,19609665631.14,20275.82
+Connecticut,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,158143.68,42424191815.76,9217394216.95,4110.42
+Connecticut,Retail Trade,Retail Trade,194330.36,33142757074.46,9847335460.16,11016.24
+Connecticut,Transportation and Warehousing,Transportation and Warehousing,118261.8,15079324779.45,5893628345.22,2395.22
+Connecticut,Utilities,Utilities,4632.54,6523548444.14,972285870.65,120.17
+Connecticut,Wholesale Trade,Wholesale Trade,52305.25,27165786776.9,7546093832.54,8758.61
+Connecticut,Working Landscapes,Agricultural Distribution,28312.31,6955410433.45,2125831477.15,2809.17
+Connecticut,Working Landscapes,Agricultural Processing,13464.89,5535721330.46,904437611.12,609.72
+Connecticut,Working Landscapes,Agricultural Production,10596.69,2200733606.84,457194817.06,368.17
+Connecticut,Working Landscapes,Agricultural Support,10434.95,1869421517.64,831293004.52,1112.74
+Connecticut,Working Landscapes,Fishing,685.08,118462223.09,32793634.41,33.24
+Connecticut,Working Landscapes,Forestry,7037.4,2617323515.94,577124826.92,423.6
+Connecticut,Working Landscapes,Mining,5400.91,2380072368.61,500051298.71,389.83
+Connecticut,Working Landscapes,Outdoor Recreation,9270.53,1191430724.53,414197533.15,611.75
+Connecticut,Working Landscapes,Renewable Energy,430.6,474222354.26,63974502.7,37.41
+Delaware,Accommodation and Food Services,Accommodation and Food Services,47096.81,4710655968.6,1397481491.76,2480.25
+Delaware,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,37866.96,4523671039.88,2106262150.74,4587.0
+Delaware,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",14547.68,1579322480.46,455488599.47,473.75
+Delaware,Construction,Construction,36229.86,7286597511.76,2712835858.25,3642.75
+Delaware,Educational Services,Educational Services,9894.35,734749565.56,439976497.12,635.25
+Delaware,Finance and Insurance,Finance and Insurance,83939.79,28931743721.8,8917090478.68,2437.75
+Delaware,Government,Government,75801.98,44295023472.59,7402722900.53,606.75
+Delaware,Health Care and Social Assistance,Health Care and Social Assistance,84635.78,13590578021.2,6711343036.09,5752.75
+Delaware,Information,Information,7341.73,3140008964.42,602710052.55,1068.25
+Delaware,Management of Companies and Enterprises,Management of Companies and Enterprises,11429.34,2989276393.12,1750508559.83,904.0
+Delaware,Manufacturing,Manufacturing,15100.3,23795082739.71,2119893924.7,630.75
+Delaware,Other Services (except Public Administration),Other Services (except Public Administration),30420.92,2552624159.71,1156689719.85,2383.0
+Delaware,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",42555.96,9594070651.44,4634541668.94,8490.25
+Delaware,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,41140.09,8654967728.31,2328868288.54,1235.5
+Delaware,Retail Trade,Retail Trade,59306.69,9269042695.95,2560786574.62,3272.0
+Delaware,Transportation and Warehousing,Transportation and Warehousing,44956.14,4622669885.82,1837468055.75,1081.75
+Delaware,Utilities,Utilities,1636.1,2662033812.74,316369770.05,30.0
+Delaware,Wholesale Trade,Wholesale Trade,10663.86,4982317857.62,1182629281.07,2277.25
+Delaware,Working Landscapes,Agricultural Distribution,7701.15,1941578354.89,524810696.38,852.25
+Delaware,Working Landscapes,Agricultural Processing,11697.1,8188528068.37,1144911488.38,103.25
+Delaware,Working Landscapes,Agricultural Production,3531.53,922671516.75,180404031.65,159.25
+Delaware,Working Landscapes,Agricultural Support,3818.39,774596643.01,271052667.62,396.25
+Delaware,Working Landscapes,Fishing,269.3,42874813.35,10539276.51,11.0
+Delaware,Working Landscapes,Forestry,1832.64,701789872.18,163662534.7,101.5
+Delaware,Working Landscapes,Mining,1432.08,1041710656.41,188093870.19,85.0
+Delaware,Working Landscapes,Outdoor Recreation,1927.9,267116534.22,80699527.28,153.0
+Delaware,Working Landscapes,Renewable Energy,59.84,90681846.59,10396707.33,17.5
+District of Columbia,Accommodation and Food Services,Accommodation and Food Services,70576.51,10565777495.18,3503586212.72,2872.0
+District of Columbia,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,53677.04,7834961431.53,4012100134.44,3482.25
+District of Columbia,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",16740.77,3159525000.3,1139906031.19,628.5
+District of Columbia,Construction,Construction,18241.71,4138472184.71,1716758981.01,1339.75
+District of Columbia,Educational Services,Educational Services,57591.82,7899684041.88,4648996294.47,1570.75
+District of Columbia,Finance and Insurance,Finance and Insurance,36688.59,15302802503.91,5904978589.66,1926.75
+District of Columbia,Government,Government,253304.43,563608586540.88,46403430606.08,378.0
+District of Columbia,Health Care and Social Assistance,Health Care and Social Assistance,76495.64,13930252394.52,7396601405.09,5103.5
+District of Columbia,Information,Information,22924.92,17028277135.47,4481667855.44,2579.0
+District of Columbia,Management of Companies and Enterprises,Management of Companies and Enterprises,4630.34,1916420543.57,1147981112.42,614.5
+District of Columbia,Manufacturing,Manufacturing,1759.86,876863455.91,173067529.91,157.0
+District of Columbia,Other Services (except Public Administration),Other Services (except Public Administration),79355.2,20247167700.35,9484237061.51,10687.0
+District of Columbia,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",146299.21,48608776406.5,26214989224.53,14257.75
+District of Columbia,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,38224.06,9861866331.96,3212731193.23,1553.0
+District of Columbia,Retail Trade,Retail Trade,23260.56,3530092980.92,1190912435.65,1730.5
+District of Columbia,Transportation and Warehousing,Transportation and Warehousing,11948.79,1015103752.55,371829418.9,330.25
+District of Columbia,Utilities,Utilities,1289.31,1710643620.68,313960475.95,21.25
+District of Columbia,Wholesale Trade,Wholesale Trade,5013.83,3091783471.25,1120925002.42,1489.75
+District of Columbia,Working Landscapes,Agricultural Distribution,3803.7,788490815.62,273126854.61,615.5
+District of Columbia,Working Landscapes,Agricultural Processing,648.36,200912749.22,32464374.91,64.75
+District of Columbia,Working Landscapes,Agricultural Production,82.14,5448980.43,1595259.44,3.5
+District of Columbia,Working Landscapes,Agricultural Support,7723.63,2509104545.94,1414882053.32,652.75
+District of Columbia,Working Landscapes,Fishing,214.06,34036895.15,12085440.25,6.5
+District of Columbia,Working Landscapes,Forestry,304.11,75503504.09,28757895.96,15.5
+District of Columbia,Working Landscapes,Mining,404.75,183135085.49,28611339.65,16.5
+District of Columbia,Working Landscapes,Outdoor Recreation,1292.4,195707875.26,77039011.31,98.25
+District of Columbia,Working Landscapes,Renewable Energy,100.08,163327332.03,25332866.87,12.75
+Florida,Accommodation and Food Services,Accommodation and Food Services,1151439.43,130316381947.22,41376181684.43,53422.75
+Florida,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,1142293.9,111712718340.76,54288480995.73,72055.0
+Florida,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",368123.31,47248476390.16,17337331733.88,11107.75
+Florida,Construction,Construction,965665.51,161827860189.92,65508967348.53,84499.0
+Florida,Educational Services,Educational Services,300065.47,24678940774.31,14944419152.14,12244.5
+Florida,Finance and Insurance,Finance and Insurance,1141451.08,305221869035.44,110609880277.98,45099.0
+Florida,Government,Government,1241408.28,595251686481.97,110353557330.03,5829.5
+Florida,Health Care and Social Assistance,Health Care and Social Assistance,1600013.71,212870739006.12,114219457035.29,90738.0
+Florida,Information,Information,235252.27,108344394790.64,24735083283.68,20069.25
+Florida,Management of Companies and Enterprises,Management of Companies and Enterprises,195262.03,41498220766.95,24756291237.62,7698.75
+Florida,Manufacturing,Manufacturing,358093.97,137951313671.72,35071805554.37,20183.0
+Florida,Other Services (except Public Administration),Other Services (except Public Administration),977313.86,73237464062.26,35474843198.2,60569.0
+Florida,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",1147308.25,188637315267.85,105538149042.55,144214.75
+Florida,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,1162898.32,219716241083.93,60717417874.43,49710.0
+Florida,Retail Trade,Retail Trade,1348451.49,193877530703.64,62024867660.27,78113.25
+Florida,Transportation and Warehousing,Transportation and Warehousing,912977.77,127505346261.37,42931860186.98,21284.0
+Florida,Utilities,Utilities,21789.35,23195511992.78,3530186212.23,752.5
+Florida,Wholesale Trade,Wholesale Trade,337326.19,145725537690.99,38919165991.15,33565.75
+Florida,Working Landscapes,Agricultural Distribution,183718.75,42730051417.3,13394247835.24,13584.5
+Florida,Working Landscapes,Agricultural Processing,60812.71,23840099292.25,4155713236.94,3032.25
+Florida,Working Landscapes,Agricultural Production,94895.34,17370972543.99,4158921676.63,3809.0
+Florida,Working Landscapes,Agricultural Support,99355.56,13105321587.66,5595449026.27,7461.0
+Florida,Working Landscapes,Fishing,12593.76,1926991689.39,585299282.84,628.25
+Florida,Working Landscapes,Forestry,43363.98,15123694993.92,3496323544.48,2952.75
+Florida,Working Landscapes,Mining,51833.02,19227417048.27,4033009681.54,2782.75
+Florida,Working Landscapes,Outdoor Recreation,63010.9,8900660984.79,3147822739.99,5490.5
+Florida,Working Landscapes,Renewable Energy,3790.24,3729707029.09,540530653.05,386.25
+Georgia,Accommodation and Food Services,Accommodation and Food Services,510891.2,47557344576.16,14948268125.79,26094.0
+Georgia,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,544474.68,51495886774.38,24400374210.08,23019.75
+Georgia,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",124657.71,10368543950.38,4090723980.87,4149.5
+Georgia,Construction,Construction,406587.25,72859280864.92,28890770358.59,26452.25
+Georgia,Educational Services,Educational Services,157632.0,13957291156.57,8111318558.18,4699.25
+Georgia,Finance and Insurance,Finance and Insurance,414076.89,116042726570.81,40457116803.61,18853.75
+Georgia,Government,Government,788514.02,381688559662.01,64052024570.56,8341.75
+Georgia,Health Care and Social Assistance,Health Care and Social Assistance,690447.55,92891426643.81,49496364265.33,34356.25
+Georgia,Information,Information,156117.08,88140574804.72,19712371885.71,8723.75
+Georgia,Management of Companies and Enterprises,Management of Companies and Enterprises,104221.59,28875261702.2,17206101851.28,1871.5
+Georgia,Manufacturing,Manufacturing,300880.17,131896320897.48,26570696193.06,9278.25
+Georgia,Other Services (except Public Administration),Other Services (except Public Administration),461140.7,30543846241.83,14410736832.94,22288.0
+Georgia,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",515048.81,90297220293.98,50257591383.26,51258.75
+Georgia,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,398393.66,82775062104.17,22100523311.16,15846.25
+Georgia,Retail Trade,Retail Trade,638513.69,86612425719.04,27491497004.59,34444.0
+Georgia,Transportation and Warehousing,Transportation and Warehousing,475731.07,73310158400.26,26086849926.33,9859.75
+Georgia,Utilities,Utilities,20015.15,22547806252.19,3350447311.89,409.5
+Georgia,Wholesale Trade,Wholesale Trade,198522.75,72202985061.63,22631279856.48,18589.0
+Georgia,Working Landscapes,Agricultural Distribution,84448.19,16873227327.2,5436628808.92,5443.75
+Georgia,Working Landscapes,Agricultural Processing,99953.6,47368969112.75,7285206460.77,1680.25
+Georgia,Working Landscapes,Agricultural Production,63051.41,12705933745.65,2685736483.01,1673.75
+Georgia,Working Landscapes,Agricultural Support,41376.59,7035508934.7,2666324638.3,2554.25
+Georgia,Working Landscapes,Fishing,2772.16,557963984.49,143842131.24,56.5
+Georgia,Working Landscapes,Forestry,63434.02,29111455684.06,5461139133.73,2369.75
+Georgia,Working Landscapes,Mining,26860.41,10430042954.32,2236032710.53,1267.5
+Georgia,Working Landscapes,Outdoor Recreation,19575.53,2172860858.65,777949372.56,1234.25
+Georgia,Working Landscapes,Renewable Energy,434.77,417602670.31,58225369.67,66.25
+Hawaii,Accommodation and Food Services,Accommodation and Food Services,111733.31,18201844909.13,5605184775.92,5008.0
+Hawaii,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,51733.65,5514845919.42,2588554777.09,3373.5
+Hawaii,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",18851.8,1751358248.51,722004760.0,639.0
+Hawaii,Construction,Construction,50639.19,11559820775.8,4817489577.93,4344.75
+Hawaii,Educational Services,Educational Services,22254.4,1752043001.36,1172930123.64,1096.5
+Hawaii,Finance and Insurance,Finance and Insurance,37947.56,9637485811.41,3453163227.19,1970.75
+Hawaii,Government,Government,178822.08,128910394471.67,16952725825.18,1949.75
+Hawaii,Health Care and Social Assistance,Health Care and Social Assistance,89035.42,13822192773.43,7384049494.97,5848.75
+Hawaii,Information,Information,11146.49,5099882592.91,1108348048.44,1528.0
+Hawaii,Management of Companies and Enterprises,Management of Companies and Enterprises,9587.67,2096120993.65,1254524398.31,459.75
+Hawaii,Manufacturing,Manufacturing,7605.44,4402917829.66,500038325.56,602.5
+Hawaii,Other Services (except Public Administration),Other Services (except Public Administration),50713.02,4954443105.11,2309442345.7,4869.75
+Hawaii,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",49172.5,7530961031.1,4181799926.25,6152.0
+Hawaii,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,56758.44,11186922774.54,3311897236.92,2109.75
+Hawaii,Retail Trade,Retail Trade,79349.06,11081715098.08,3611402344.03,4333.5
+Hawaii,Transportation and Warehousing,Transportation and Warehousing,43689.85,10275238567.39,3018272150.42,982.0
+Hawaii,Utilities,Utilities,3576.28,3818774826.83,627454198.91,55.0
+Hawaii,Wholesale Trade,Wholesale Trade,12348.49,5090992198.51,1062490679.75,1563.75
+Hawaii,Working Landscapes,Agricultural Distribution,13566.42,2418170158.88,793331332.17,765.75
+Hawaii,Working Landscapes,Agricultural Processing,7360.36,2359276250.06,423887425.89,457.25
+Hawaii,Working Landscapes,Agricultural Production,12201.72,1995893683.39,472858806.41,464.5
+Hawaii,Working Landscapes,Agricultural Support,5050.03,514700510.21,273621885.89,333.5
+Hawaii,Working Landscapes,Fishing,1897.36,217853742.12,80973176.57,96.25
+Hawaii,Working Landscapes,Forestry,1538.72,288909881.4,89299929.24,128.5
+Hawaii,Working Landscapes,Mining,2097.61,829674044.84,194359847.8,126.0
+Hawaii,Working Landscapes,Outdoor Recreation,8920.0,1105439917.08,443860884.22,705.5
+Hawaii,Working Landscapes,Renewable Energy,272.96,253724643.9,39482857.29,33.25
+Idaho,Accommodation and Food Services,Accommodation and Food Services,83925.2,6929855737.41,2205702049.98,5081.75
+Idaho,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,65392.31,7139619935.23,3371670217.65,6219.0
+Idaho,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",22209.88,1408709875.89,586264378.07,969.25
+Idaho,Construction,Construction,98259.4,16990629239.83,6835762487.75,13032.0
+Idaho,Educational Services,Educational Services,29318.47,1565931463.16,910859453.46,1676.75
+Idaho,Finance and Insurance,Finance and Insurance,61059.86,13963414900.08,4629196911.4,5340.25
+Idaho,Government,Government,137292.73,55514893524.77,9818255847.06,2744.75
+Idaho,Health Care and Social Assistance,Health Care and Social Assistance,131550.25,16156013837.42,8652269917.01,11416.25
+Idaho,Information,Information,14423.25,5334643959.02,1195321079.26,2968.25
+Idaho,Management of Companies and Enterprises,Management of Companies and Enterprises,11878.24,2550405646.59,1526418428.55,624.75
+Idaho,Manufacturing,Manufacturing,42384.27,12530055090.48,3936721342.29,2513.75
+Idaho,Other Services (except Public Administration),Other Services (except Public Administration),59617.78,4771150448.36,2194383543.62,5654.25
+Idaho,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",80183.0,12205950345.25,6425441680.52,13847.25
+Idaho,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,80248.4,13675770389.52,4044865018.03,4019.25
+Idaho,Retail Trade,Retail Trade,115453.62,15402908798.6,5049145243.99,6692.25
+Idaho,Transportation and Warehousing,Transportation and Warehousing,53228.33,6458719186.34,2448673410.73,2714.5
+Idaho,Utilities,Utilities,2454.74,1799750564.97,284072590.56,139.75
+Idaho,Wholesale Trade,Wholesale Trade,24666.97,9407901916.54,2440874313.36,3893.75
+Idaho,Working Landscapes,Agricultural Distribution,19815.48,3905408724.86,1244330158.86,1785.75
+Idaho,Working Landscapes,Agricultural Processing,24572.47,13183295523.88,1792434355.94,631.25
+Idaho,Working Landscapes,Agricultural Production,44288.96,10862359328.02,2310672609.57,2005.75
+Idaho,Working Landscapes,Agricultural Support,16974.16,2930848123.63,963560567.27,1293.0
+Idaho,Working Landscapes,Fishing,733.56,86274641.67,20876583.03,31.75
+Idaho,Working Landscapes,Forestry,14775.66,5605364586.68,1180326946.07,929.5
+Idaho,Working Landscapes,Mining,8570.74,3306711349.69,700698024.97,517.5
+Idaho,Working Landscapes,Outdoor Recreation,7432.64,601042192.8,224213815.27,696.0
+Idaho,Working Landscapes,Renewable Energy,516.19,460111047.1,67535819.15,87.5
+Illinois,Accommodation and Food Services,Accommodation and Food Services,553962.74,57102743982.18,18224868085.25,28556.0
+Illinois,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,530701.32,63645699019.49,30861855334.57,22244.25
+Illinois,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",155252.68,17866314872.4,6494018357.04,5227.0
+Illinois,Construction,Construction,352114.1,73368997161.56,29872977038.04,33476.5
+Illinois,Educational Services,Educational Services,220735.61,21747022539.62,12379835148.58,5988.75
+Illinois,Finance and Insurance,Finance and Insurance,618454.72,209245310517.14,75368991434.55,20583.0
+Illinois,Government,Government,872194.58,352162350462.17,80384476508.29,8670.75
+Illinois,Health Care and Social Assistance,Health Care and Social Assistance,941017.8,130067491618.97,68272142275.17,37250.5
+Illinois,Information,Information,123514.86,65777867555.1,15716291858.37,9897.0
+Illinois,Management of Companies and Enterprises,Management of Companies and Enterprises,97201.29,26269392638.65,15655069965.77,1764.0
+Illinois,Manufacturing,Manufacturing,444804.08,263729165154.23,49215104518.88,14851.25
+Illinois,Other Services (except Public Administration),Other Services (except Public Administration),470063.56,43408431920.43,20063459551.06,36207.75
+Illinois,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",618349.71,128680305956.15,72305343751.01,60494.25
+Illinois,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,407521.67,90112377597.57,23941286935.75,14117.0
+Illinois,Retail Trade,Retail Trade,686391.3,94989683274.8,30272308539.82,31910.25
+Illinois,Transportation and Warehousing,Transportation and Warehousing,555055.09,90482051111.81,32593595755.68,20826.0
+Illinois,Utilities,Utilities,22190.98,27071311936.48,4224450973.46,362.25
+Illinois,Wholesale Trade,Wholesale Trade,232183.12,111510864460.88,28809111415.83,18102.5
+Illinois,Working Landscapes,Agricultural Distribution,123893.41,31827763333.25,9960901414.01,8061.0
+Illinois,Working Landscapes,Agricultural Processing,108953.94,62834161595.61,9395495455.56,2841.0
+Illinois,Working Landscapes,Agricultural Production,78850.22,21788393239.74,4924349743.21,2350.5
+Illinois,Working Landscapes,Agricultural Support,46351.0,13446001067.13,4563969413.34,2964.75
+Illinois,Working Landscapes,Fishing,1929.52,483997711.29,150206364.6,78.25
+Illinois,Working Landscapes,Forestry,34330.27,12741602255.77,2817197291.6,1503.0
+Illinois,Working Landscapes,Mining,30438.02,13307849635.9,2544063841.08,1540.25
+Illinois,Working Landscapes,Outdoor Recreation,18912.33,2115179617.27,763414599.31,1202.0
+Illinois,Working Landscapes,Renewable Energy,1869.03,2378489739.57,343449575.94,247.25
+Indiana,Accommodation and Food Services,Accommodation and Food Services,291994.88,24048045890.48,7613297922.87,14391.25
+Indiana,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,232899.57,23307591864.88,10738908802.52,12183.75
+Indiana,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",67813.98,6802156031.93,2439285648.36,2148.25
+Indiana,Construction,Construction,240738.3,45570754776.57,18249792203.35,16853.25
+Indiana,Educational Services,Educational Services,94079.51,6703146058.38,3931767026.3,2496.75
+Indiana,Finance and Insurance,Finance and Insurance,192510.67,49220575622.41,16213066073.67,11607.0
+Indiana,Government,Government,439567.16,140139312099.61,31064025511.89,5051.25
+Indiana,Health Care and Social Assistance,Health Care and Social Assistance,490306.68,66268920486.15,35466083172.55,17216.0
+Indiana,Information,Information,41206.4,17581762758.67,2952022000.14,3257.75
+Indiana,Management of Companies and Enterprises,Management of Companies and Enterprises,41156.88,9076125102.19,5423862468.94,1375.0
+Indiana,Manufacturing,Manufacturing,442949.06,282887269626.9,44130040233.3,7069.25
+Indiana,Other Services (except Public Administration),Other Services (except Public Administration),239222.88,18847028844.18,8656780778.47,14065.75
+Indiana,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",215073.17,35804674791.02,19651498966.07,25574.0
+Indiana,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,195500.12,36375904055.09,10717645941.33,7894.25
+Indiana,Retail Trade,Retail Trade,367850.58,46052806696.53,14823619712.23,19143.0
+Indiana,Transportation and Warehousing,Transportation and Warehousing,267357.95,34961505708.82,14079899400.64,6672.5
+Indiana,Utilities,Utilities,12231.7,12982285271.97,1965504959.41,400.0
+Indiana,Wholesale Trade,Wholesale Trade,113094.78,45313518644.32,11768191937.67,12210.0
+Indiana,Working Landscapes,Agricultural Distribution,50947.54,10019434647.27,3204133680.96,4063.25
+Indiana,Working Landscapes,Agricultural Processing,55031.43,29666518395.55,3953453929.73,973.75
+Indiana,Working Landscapes,Agricultural Production,64990.13,17524989484.01,3634740716.57,1837.5
+Indiana,Working Landscapes,Agricultural Support,26119.57,4879548147.11,1734026506.54,1982.25
+Indiana,Working Landscapes,Fishing,425.02,72646757.02,19580215.12,19.5
+Indiana,Working Landscapes,Forestry,42760.44,12713268367.46,2998520644.27,1379.0
+Indiana,Working Landscapes,Mining,19358.95,8118747429.49,1572861272.44,907.75
+Indiana,Working Landscapes,Outdoor Recreation,9383.33,777863375.75,276367380.52,659.75
+Indiana,Working Landscapes,Renewable Energy,292.59,291576889.89,41569912.5,53.5
+Iowa,Accommodation and Food Services,Accommodation and Food Services,131570.68,11106018437.11,3329642759.29,7306.0
+Iowa,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,86633.36,8737360576.99,4105274674.28,6157.5
+Iowa,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",33931.04,2353944765.39,760570982.98,1294.0
+Iowa,Construction,Construction,126365.41,23904630966.59,9339686058.45,9556.25
+Iowa,Educational Services,Educational Services,42481.69,3037579765.26,1722270611.89,1413.25
+Iowa,Finance and Insurance,Finance and Insurance,154210.15,47476314844.65,14517294783.78,7400.5
+Iowa,Government,Government,273753.42,80854748377.78,20099691301.66,6373.25
+Iowa,Health Care and Social Assistance,Health Care and Social Assistance,218269.18,25428149873.38,13764164066.73,12632.0
+Iowa,Information,Information,25626.67,10133057978.52,2081053819.29,2573.0
+Iowa,Management of Companies and Enterprises,Management of Companies and Enterprises,27930.3,6033913006.42,3578395349.84,1856.0
+Iowa,Manufacturing,Manufacturing,129534.9,60316856452.94,11762218635.11,2629.75
+Iowa,Other Services (except Public Administration),Other Services (except Public Administration),106625.54,8781335903.56,3917267908.47,7510.5
+Iowa,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",87518.03,13079787169.12,7083561208.64,11902.5
+Iowa,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,98797.17,18312804993.05,5190778536.57,3750.5
+Iowa,Retail Trade,Retail Trade,207037.83,26263680511.14,7848183899.31,10333.0
+Iowa,Transportation and Warehousing,Transportation and Warehousing,93740.14,14014786390.39,5301144382.42,3650.25
+Iowa,Utilities,Utilities,5298.43,5944489720.91,821581186.03,387.75
+Iowa,Wholesale Trade,Wholesale Trade,40475.54,16361180223.85,3909750345.96,4899.75
+Iowa,Working Landscapes,Agricultural Distribution,40119.35,11089265445.5,3079748059.8,3297.5
+Iowa,Working Landscapes,Agricultural Processing,67146.36,47487187063.66,5328259750.96,790.75
+Iowa,Working Landscapes,Agricultural Production,96248.91,31440358604.59,5970465059.2,2506.25
+Iowa,Working Landscapes,Agricultural Support,39323.02,14734159164.69,3349315327.52,1533.5
+Iowa,Working Landscapes,Fishing,182.16,11583066.32,3178839.92,2.75
+Iowa,Working Landscapes,Forestry,18238.25,6825412811.7,1485126068.6,450.75
+Iowa,Working Landscapes,Mining,8811.41,3562272163.64,706457151.64,664.5
+Iowa,Working Landscapes,Outdoor Recreation,4451.67,373118439.97,130328119.96,347.75
+Iowa,Working Landscapes,Renewable Energy,517.03,599216156.07,78108517.45,41.0
+Kansas,Accommodation and Food Services,Accommodation and Food Services,125978.55,10002754823.68,3175421700.73,6193.75
+Kansas,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,99613.68,10346249082.5,5244760691.65,7218.75
+Kansas,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",30581.14,2005100093.65,686917646.49,803.0
+Kansas,Construction,Construction,103781.39,18508635051.54,7461205966.51,7670.0
+Kansas,Educational Services,Educational Services,30194.39,1807818118.08,1055417459.63,1129.0
+Kansas,Finance and Insurance,Finance and Insurance,123556.85,30439912659.03,10677726179.31,6327.0
+Kansas,Government,Government,289221.53,101812220341.7,19500907223.41,4865.5
+Kansas,Health Care and Social Assistance,Health Care and Social Assistance,219716.07,27917512475.26,14646016763.28,10828.75
+Kansas,Information,Information,25039.56,11763196601.49,2174051618.01,2687.25
+Kansas,Management of Companies and Enterprises,Management of Companies and Enterprises,26712.77,6356977941.69,3800093722.03,822.75
+Kansas,Manufacturing,Manufacturing,125887.66,66533222919.94,11580357158.85,2418.25
+Kansas,Other Services (except Public Administration),Other Services (except Public Administration),101208.08,7885959752.0,3627091759.53,6227.75
+Kansas,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",115958.35,18370348703.28,10194375073.39,14070.5
+Kansas,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,95242.08,16795867153.91,5027217407.51,3021.5
+Kansas,Retail Trade,Retail Trade,170102.2,20512525270.77,6631647297.74,7898.25
+Kansas,Transportation and Warehousing,Transportation and Warehousing,97551.34,14066336912.59,5382982402.54,2633.5
+Kansas,Utilities,Utilities,5630.81,5214514048.64,854581490.2,197.5
+Kansas,Wholesale Trade,Wholesale Trade,43625.71,17776636863.35,4458398223.52,5805.25
+Kansas,Working Landscapes,Agricultural Distribution,30610.98,6032900551.89,1883901713.37,2575.25
+Kansas,Working Landscapes,Agricultural Processing,40516.74,24526326880.77,2985248951.94,497.75
+Kansas,Working Landscapes,Agricultural Production,65758.5,11132431429.2,2342436174.91,1783.0
+Kansas,Working Landscapes,Agricultural Support,24650.76,4891525503.39,1556098693.28,1228.5
+Kansas,Working Landscapes,Fishing,184.05,12620431.27,3979473.29,7.0
+Kansas,Working Landscapes,Forestry,6780.38,1942221762.35,490019317.22,301.0
+Kansas,Working Landscapes,Mining,38317.96,17864630845.92,2256803094.83,1186.5
+Kansas,Working Landscapes,Outdoor Recreation,4339.81,331462886.92,122694908.89,257.0
+Kansas,Working Landscapes,Renewable Energy,427.28,386962172.45,55205200.21,22.75
+Kentucky,Accommodation and Food Services,Accommodation and Food Services,192039.5,15914141365.55,5193661377.18,9753.0
+Kentucky,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,156357.74,13979142387.14,6957893762.05,9035.75
+Kentucky,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",41473.63,3042997434.92,1268325594.78,1590.5
+Kentucky,Construction,Construction,149151.19,24577884262.49,10325488028.75,11685.0
+Kentucky,Educational Services,Educational Services,42954.68,2596758323.37,1543010571.72,1884.75
+Kentucky,Finance and Insurance,Finance and Insurance,126704.07,32097572261.92,11153125193.47,8639.5
+Kentucky,Government,Government,352379.9,138450746068.44,26229653463.66,6169.75
+Kentucky,Health Care and Social Assistance,Health Care and Social Assistance,310793.25,41641629721.79,22717821628.68,23765.25
+Kentucky,Information,Information,31211.52,10510808743.03,2385588564.23,3964.5
+Kentucky,Management of Companies and Enterprises,Management of Companies and Enterprises,27331.33,5798985008.43,3502425158.17,930.5
+Kentucky,Manufacturing,Manufacturing,195265.19,118516468626.58,18160017296.86,5062.75
+Kentucky,Other Services (except Public Administration),Other Services (except Public Administration),142072.03,10602706101.51,4965992248.23,10417.5
+Kentucky,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",129904.65,17966481677.62,10245215867.73,20567.5
+Kentucky,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,126150.99,20224450021.73,6468652194.77,5467.75
+Kentucky,Retail Trade,Retail Trade,245086.43,28240874836.3,9809700436.66,15536.75
+Kentucky,Transportation and Warehousing,Transportation and Warehousing,186084.42,26236848856.17,11209155743.75,4326.0
+Kentucky,Utilities,Utilities,6300.67,5346613523.59,953231557.58,301.5
+Kentucky,Wholesale Trade,Wholesale Trade,64431.79,22448266804.6,6192179448.05,6770.75
+Kentucky,Working Landscapes,Agricultural Distribution,32424.71,5803339551.62,1992529543.89,2790.75
+Kentucky,Working Landscapes,Agricultural Processing,43182.36,25623488944.17,3630754703.62,844.75
+Kentucky,Working Landscapes,Agricultural Production,85403.2,11919412894.98,2698888165.93,993.25
+Kentucky,Working Landscapes,Agricultural Support,22941.69,2720518794.11,1263335971.09,1653.75
+Kentucky,Working Landscapes,Fishing,477.91,36146822.14,10449997.16,20.0
+Kentucky,Working Landscapes,Forestry,27263.52,8287485449.11,1919143997.03,900.25
+Kentucky,Working Landscapes,Mining,20732.49,8358183540.26,1684399581.84,972.5
+Kentucky,Working Landscapes,Outdoor Recreation,7362.28,601124576.69,228416280.76,523.75
+Kentucky,Working Landscapes,Renewable Energy,161.45,199543989.07,33530049.72,66.75
+Louisiana,Accommodation and Food Services,Accommodation and Food Services,222220.69,18445316485.4,6067562452.41,12517.0
+Louisiana,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,175619.59,14410289382.39,6930256858.98,9653.5
+Louisiana,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",47465.1,5058628992.39,1841559926.05,1854.5
+Louisiana,Construction,Construction,208488.88,37865573383.04,15700131653.71,12750.75
+Louisiana,Educational Services,Educational Services,65541.09,4592927090.22,2939799665.77,2013.5
+Louisiana,Finance and Insurance,Finance and Insurance,142334.25,28445668446.57,10438426349.94,9014.75
+Louisiana,Government,Government,348082.87,132230376676.09,25775166383.93,5792.75
+Louisiana,Health Care and Social Assistance,Health Care and Social Assistance,346398.18,40482998842.51,21946158357.64,17558.0
+Louisiana,Information,Information,30360.35,8886500146.24,2092346341.31,2921.5
+Louisiana,Management of Companies and Enterprises,Management of Companies and Enterprises,29076.63,5266472996.83,3161812700.41,1578.0
+Louisiana,Manufacturing,Manufacturing,100695.84,139536296665.84,12002520047.28,3188.5
+Louisiana,Other Services (except Public Administration),Other Services (except Public Administration),186959.72,12771184741.81,5957105899.84,9992.5
+Louisiana,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",151314.92,21043352355.85,11613795740.51,19816.75
+Louisiana,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,155342.81,27189246461.22,8019673475.5,5932.5
+Louisiana,Retail Trade,Retail Trade,265166.46,30707093008.33,10115645170.81,17790.75
+Louisiana,Transportation and Warehousing,Transportation and Warehousing,132129.59,27320884981.09,8197806603.65,5059.25
+Louisiana,Utilities,Utilities,7343.08,6678995910.26,1122703417.26,320.0
+Louisiana,Wholesale Trade,Wholesale Trade,56065.94,20422867436.33,5546519532.65,7015.5
+Louisiana,Working Landscapes,Agricultural Distribution,32915.62,6146419227.03,2047861527.52,2153.5
+Louisiana,Working Landscapes,Agricultural Processing,20785.24,8337230854.38,1343294470.75,552.5
+Louisiana,Working Landscapes,Agricultural Production,33796.41,4770139298.28,1133374910.36,879.5
+Louisiana,Working Landscapes,Agricultural Support,25419.17,6011948933.44,1770432237.46,2219.0
+Louisiana,Working Landscapes,Fishing,8898.84,976442880.28,317911824.33,221.25
+Louisiana,Working Landscapes,Forestry,21683.31,9138861605.62,1754517572.53,943.0
+Louisiana,Working Landscapes,Mining,65826.01,31110366041.12,6207022862.05,2451.75
+Louisiana,Working Landscapes,Outdoor Recreation,8910.33,739425967.43,274573762.47,609.5
+Louisiana,Working Landscapes,Renewable Energy,60.24,49777569.67,7777438.13,28.0
+Maine,Accommodation and Food Services,Accommodation and Food Services,62395.89,6887306570.99,2202479205.11,4092.5
+Maine,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,41693.81,4323905526.27,2032461203.13,4025.5
+Maine,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",17379.17,1183007013.83,504844106.6,691.5
+Maine,Construction,Construction,63223.94,10159052007.93,4173298244.62,6266.75
+Maine,Educational Services,Educational Services,24888.28,1939672011.76,1131565981.95,847.75
+Maine,Finance and Insurance,Finance and Insurance,40403.93,11653513116.38,3952310749.78,2372.5
+Maine,Government,Government,107103.89,53511286297.43,8676803015.5,3072.25
+Maine,Health Care and Social Assistance,Health Care and Social Assistance,123484.7,16911671437.57,9056030888.58,5254.25
+Maine,Information,Information,12569.87,4607729109.52,997830493.03,1672.75
+Maine,Management of Companies and Enterprises,Management of Companies and Enterprises,18261.54,3792457624.35,2260116294.5,2482.5
+Maine,Manufacturing,Manufacturing,37619.01,12156307531.19,3233034455.29,1139.0
+Maine,Other Services (except Public Administration),Other Services (except Public Administration),44154.2,3849127395.47,1747588446.19,3936.0
+Maine,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",54562.63,8614628539.19,4824163730.12,9941.75
+Maine,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,49983.8,8535234185.2,2649812175.02,2017.5
+Maine,Retail Trade,Retail Trade,96187.67,13576240638.92,4153183058.16,5520.75
+Maine,Transportation and Warehousing,Transportation and Warehousing,28125.26,3547758911.74,1445605172.1,1219.75
+Maine,Utilities,Utilities,1460.19,1637513774.42,250483775.67,54.0
+Maine,Wholesale Trade,Wholesale Trade,15210.28,6604711845.5,1631728445.04,2338.25
+Maine,Working Landscapes,Agricultural Distribution,9538.61,1760289988.81,564842358.73,794.0
+Maine,Working Landscapes,Agricultural Processing,8660.04,3312509576.67,549028001.26,393.5
+Maine,Working Landscapes,Agricultural Production,13656.16,2354749998.94,544231191.52,752.25
+Maine,Working Landscapes,Agricultural Support,6545.6,744761003.51,340318944.86,608.25
+Maine,Working Landscapes,Fishing,8627.58,1547305759.08,547319011.71,695.75
+Maine,Working Landscapes,Forestry,14133.19,5085742004.9,1148618194.86,711.5
+Maine,Working Landscapes,Mining,2460.23,806789630.45,182075043.12,165.5
+Maine,Working Landscapes,Outdoor Recreation,9028.63,1214709830.73,407693551.45,760.25
+Maine,Working Landscapes,Renewable Energy,484.18,398146005.69,58694193.95,49.25
+Maryland,Accommodation and Food Services,Accommodation and Food Services,247992.44,27571634168.57,8270366232.7,12964.25
+Maryland,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,242741.02,28089918328.72,13436434541.3,12953.0
+Maryland,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",78080.47,6471193997.59,2477884106.25,2419.5
+Maryland,Construction,Construction,251741.91,51388851686.43,20406616623.13,16989.5
+Maryland,Educational Services,Educational Services,119489.19,12653653122.53,7227246206.63,4134.0
+Maryland,Finance and Insurance,Finance and Insurance,209175.47,63480548291.69,22806547127.14,9299.25
+Maryland,Government,Government,631084.95,610261449918.66,72161893639.03,3864.0
+Maryland,Health Care and Social Assistance,Health Care and Social Assistance,472436.49,65886044979.23,35210752719.84,21526.75
+Maryland,Information,Information,55395.45,28942998896.69,6180223135.86,5557.75
+Maryland,Management of Companies and Enterprises,Management of Companies and Enterprises,34703.22,8681490476.1,5141091198.6,1440.0
+Maryland,Manufacturing,Manufacturing,89899.3,48587235897.97,11555838025.33,3497.0
+Maryland,Other Services (except Public Administration),Other Services (except Public Administration),227268.54,21656299725.87,10095609205.6,21447.0
+Maryland,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",397878.62,83232066972.76,44307227337.01,37977.5
+Maryland,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,236495.3,45730551532.28,13156670634.12,8151.25
+Maryland,Retail Trade,Retail Trade,333282.5,47517736848.49,14489082199.81,15580.25
+Maryland,Transportation and Warehousing,Transportation and Warehousing,229080.5,25378165811.53,9440779690.6,4639.5
+Maryland,Utilities,Utilities,10056.39,14021423337.94,1935978948.98,226.0
+Maryland,Wholesale Trade,Wholesale Trade,71088.76,28408623702.42,8306937692.8,7225.0
+Maryland,Working Landscapes,Agricultural Distribution,47957.7,9021189246.96,2821513394.59,3565.25
+Maryland,Working Landscapes,Agricultural Processing,24474.57,11291943352.28,1723776356.48,985.0
+Maryland,Working Landscapes,Agricultural Production,17959.14,3631698457.51,756426768.14,563.0
+Maryland,Working Landscapes,Agricultural Support,25275.03,4104391995.74,2086126624.91,2413.5
+Maryland,Working Landscapes,Fishing,3472.69,561996527.01,173775284.84,109.0
+Maryland,Working Landscapes,Forestry,10002.46,3231613113.91,765487560.34,565.5
+Maryland,Working Landscapes,Mining,8409.01,3410530585.45,721677889.0,484.5
+Maryland,Working Landscapes,Outdoor Recreation,14042.06,1641908419.85,573884418.95,990.5
+Maryland,Working Landscapes,Renewable Energy,439.34,524519182.97,70434410.66,141.5
+Massachusetts,Accommodation and Food Services,Accommodation and Food Services,320004.68,37884488163.47,12712781426.04,16362.5
+Massachusetts,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,253870.79,34838543905.41,16300126984.52,14860.25
+Massachusetts,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",110318.47,12758194795.3,5094926381.0,3264.75
+Massachusetts,Construction,Construction,275281.49,63726331298.91,25643560034.1,22355.25
+Massachusetts,Educational Services,Educational Services,263930.01,32047008524.03,17869110349.46,4785.5
+Massachusetts,Finance and Insurance,Finance and Insurance,363263.79,146203938196.87,54872316069.36,11707.5
+Massachusetts,Government,Government,479399.92,265668881565.74,50798611868.27,7533.0
+Massachusetts,Health Care and Social Assistance,Health Care and Social Assistance,721541.38,113477922070.48,59790737805.05,72276.5
+Massachusetts,Information,Information,117456.27,80781712956.86,20751754324.99,9378.25
+Massachusetts,Management of Companies and Enterprises,Management of Companies and Enterprises,77939.51,23302518205.75,13926481311.8,1639.0
+Massachusetts,Manufacturing,Manufacturing,196004.95,89792538776.11,25864545967.9,5140.75
+Massachusetts,Other Services (except Public Administration),Other Services (except Public Administration),250814.05,24257681078.2,11547777474.65,23026.5
+Massachusetts,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",524430.55,160298282398.93,80670239518.07,39387.75
+Massachusetts,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,280051.86,64029352322.31,18377194599.78,8173.5
+Massachusetts,Retail Trade,Retail Trade,397345.65,59433562715.45,19272226514.29,19055.0
+Massachusetts,Transportation and Warehousing,Transportation and Warehousing,210813.83,25902759395.0,9385245271.78,4434.0
+Massachusetts,Utilities,Utilities,12626.31,14481894475.66,2462451964.02,292.75
+Massachusetts,Wholesale Trade,Wholesale Trade,109619.25,59356649338.47,15852299860.99,11682.5
+Massachusetts,Working Landscapes,Agricultural Distribution,57337.71,12409404131.68,4157564113.84,4595.5
+Massachusetts,Working Landscapes,Agricultural Processing,33268.45,14359043895.46,2519575407.72,1021.0
+Massachusetts,Working Landscapes,Agricultural Production,17645.06,4594892970.93,990372455.48,498.75
+Massachusetts,Working Landscapes,Agricultural Support,28865.65,5647215382.85,3171418787.04,2744.5
+Massachusetts,Working Landscapes,Fishing,11020.88,3024988637.08,825525205.37,505.5
+Massachusetts,Working Landscapes,Forestry,15076.21,6128097981.91,1410782977.38,690.0
+Massachusetts,Working Landscapes,Mining,8930.46,4547587127.98,880951254.83,526.5
+Massachusetts,Working Landscapes,Outdoor Recreation,18333.14,2173999816.21,821692196.8,1187.75
+Massachusetts,Working Landscapes,Renewable Energy,1172.44,1275824341.24,184682247.07,118.0
+Michigan,Accommodation and Food Services,Accommodation and Food Services,402761.1,34992925856.22,11395906758.32,22648.0
+Michigan,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,356162.89,35953029900.05,17511008863.68,19175.25
+Michigan,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",98377.63,8189775279.57,3475520562.66,3684.25
+Michigan,Construction,Construction,305902.27,56009764242.97,23022922169.01,26296.75
+Michigan,Educational Services,Educational Services,116175.9,7787347026.64,4870994633.92,4973.25
+Michigan,Finance and Insurance,Finance and Insurance,321675.28,83075461143.24,28665562189.38,16358.5
+Michigan,Government,Government,620649.33,228256370611.12,52439879929.66,7782.75
+Michigan,Health Care and Social Assistance,Health Care and Social Assistance,702202.27,93701533680.77,49825939507.44,38884.75
+Michigan,Information,Information,80648.29,31173958267.13,7723720318.48,11142.0
+Michigan,Management of Companies and Enterprises,Management of Companies and Enterprises,80422.25,20547019790.84,12331622536.68,1780.5
+Michigan,Manufacturing,Manufacturing,543629.41,300023598269.25,54723032281.31,17767.25
+Michigan,Other Services (except Public Administration),Other Services (except Public Administration),347767.55,27370554809.12,12658737747.4,30749.75
+Michigan,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",440796.88,81631117029.38,44617975238.56,45587.25
+Michigan,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,334560.87,65307680704.7,19186266514.72,9895.5
+Michigan,Retail Trade,Retail Trade,525388.99,68413503967.8,22814178941.55,31028.75
+Michigan,Transportation and Warehousing,Transportation and Warehousing,283833.49,38679636298.23,14529660220.23,9110.75
+Michigan,Utilities,Utilities,19070.51,22430251586.8,3671856505.34,375.25
+Michigan,Wholesale Trade,Wholesale Trade,156699.01,64938727180.68,17356815553.81,12679.0
+Michigan,Working Landscapes,Agricultural Distribution,77112.66,14070605965.21,4864510301.58,6527.25
+Michigan,Working Landscapes,Agricultural Processing,56928.71,27756744326.39,4122868471.23,2450.5
+Michigan,Working Landscapes,Agricultural Production,72179.58,13366995840.02,3097331892.34,3033.0
+Michigan,Working Landscapes,Agricultural Support,31022.53,4200782438.48,1836497221.88,2838.0
+Michigan,Working Landscapes,Fishing,1794.48,276225111.28,81856819.02,80.0
+Michigan,Working Landscapes,Forestry,37510.75,13405702626.38,2940953080.25,1857.0
+Michigan,Working Landscapes,Mining,23867.32,10140952924.41,2040953371.41,1155.75
+Michigan,Working Landscapes,Outdoor Recreation,20278.25,2077625916.87,748733109.16,1904.25
+Michigan,Working Landscapes,Renewable Energy,959.97,1012559960.72,156714304.22,185.5
+Minnesota,Accommodation and Food Services,Accommodation and Food Services,236429.87,21395775034.63,7008894222.46,12596.75
+Minnesota,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,162426.7,18679380462.08,8958368217.45,10224.0
+Minnesota,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",81328.82,7171599712.4,3260211059.5,2966.25
+Minnesota,Construction,Construction,199264.29,43347299074.95,17798481564.27,18259.5
+Minnesota,Educational Services,Educational Services,95192.7,6815922341.97,4110719684.6,3481.25
+Minnesota,Finance and Insurance,Finance and Insurance,255082.35,90072699490.09,30073055110.94,11061.25
+Minnesota,Government,Government,423013.57,161820675127.46,35906512397.12,6716.5
+Minnesota,Health Care and Social Assistance,Health Care and Social Assistance,546382.19,74540494055.7,41142380801.81,24936.75
+Minnesota,Information,Information,57758.12,26374969495.23,6560604367.4,7059.75
+Minnesota,Management of Companies and Enterprises,Management of Companies and Enterprises,94460.92,25398123079.33,15229794236.44,2399.75
+Minnesota,Manufacturing,Manufacturing,242630.21,105717988613.98,25201994997.86,6370.5
+Minnesota,Other Services (except Public Administration),Other Services (except Public Administration),197172.1,17050008810.25,7886435045.06,20695.5
+Minnesota,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",247268.89,46180453938.19,26281290982.44,28359.0
+Minnesota,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,193718.19,41325722032.74,11107046574.06,6943.0
+Minnesota,Retail Trade,Retail Trade,332269.65,43796708900.08,14291476607.65,16017.75
+Minnesota,Transportation and Warehousing,Transportation and Warehousing,191941.72,29465525452.1,10570763390.69,5209.75
+Minnesota,Utilities,Utilities,12570.37,13615310034.1,2196032173.61,321.5
+Minnesota,Wholesale Trade,Wholesale Trade,103655.05,43946554796.75,12491480839.22,11867.5
+Minnesota,Working Landscapes,Agricultural Distribution,53594.06,13090356367.18,4121620698.7,4861.25
+Minnesota,Working Landscapes,Agricultural Processing,59142.03,35172008166.84,4733126737.13,1047.75
+Minnesota,Working Landscapes,Agricultural Production,81214.77,21501646763.18,4554419932.77,2649.0
+Minnesota,Working Landscapes,Agricultural Support,26697.84,4577397514.99,1803718555.71,2382.25
+Minnesota,Working Landscapes,Fishing,1615.19,341701842.0,91364829.77,46.0
+Minnesota,Working Landscapes,Forestry,35246.4,12295093838.87,3002545720.98,1322.0
+Minnesota,Working Landscapes,Mining,16747.67,7489741891.6,1632973248.54,765.5
+Minnesota,Working Landscapes,Outdoor Recreation,14860.66,1321142047.38,478550933.13,1380.5
+Minnesota,Working Landscapes,Renewable Energy,1508.97,1472919497.78,224840069.33,134.0
+Mississippi,Accommodation and Food Services,Accommodation and Food Services,140827.98,11255844780.37,3500899385.47,6762.5
+Mississippi,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,112529.24,7692448273.99,3691049250.92,6261.25
+Mississippi,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",19352.06,1040470843.5,370197833.87,714.75
+Mississippi,Construction,Construction,97282.41,13629063622.94,5668059753.59,6779.75
+Mississippi,Educational Services,Educational Services,25733.59,1387846419.8,862081741.92,979.25
+Mississippi,Finance and Insurance,Finance and Insurance,73047.75,13279347211.91,4636994683.82,5814.0
+Mississippi,Government,Government,259781.01,90323390092.65,17502221727.65,3863.75
+Mississippi,Health Care and Social Assistance,Health Care and Social Assistance,171973.25,17752176874.8,9920637900.63,8130.0
+Mississippi,Information,Information,16221.37,5221850834.82,923073730.75,1450.0
+Mississippi,Management of Companies and Enterprises,Management of Companies and Enterprises,14422.29,2614841165.03,1568293113.89,746.75
+Mississippi,Manufacturing,Manufacturing,105665.13,55369940325.76,8316998990.31,1621.0
+Mississippi,Other Services (except Public Administration),Other Services (except Public Administration),106660.11,6523750998.9,2964091144.24,5288.75
+Mississippi,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",66461.79,7749592055.57,4337921171.48,11080.5
+Mississippi,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,72844.16,10941718095.88,3454176654.3,3107.0
+Mississippi,Retail Trade,Retail Trade,168116.5,18537251558.56,5958181481.5,11211.75
+Mississippi,Transportation and Warehousing,Transportation and Warehousing,92251.88,11928850660.54,4774545549.37,3106.75
+Mississippi,Utilities,Utilities,6797.6,6205772157.81,1013551168.16,210.0
+Mississippi,Wholesale Trade,Wholesale Trade,28766.2,10198079451.39,2573497544.41,4351.75
+Mississippi,Working Landscapes,Agricultural Distribution,24541.28,3983527060.61,1357396046.57,2012.5
+Mississippi,Working Landscapes,Agricultural Processing,25241.8,7929100342.04,1346897291.26,319.25
+Mississippi,Working Landscapes,Agricultural Production,40630.58,7078131522.3,1552147986.73,988.25
+Mississippi,Working Landscapes,Agricultural Support,16601.2,2248161171.22,853985409.14,1375.75
+Mississippi,Working Landscapes,Fishing,3498.67,615131337.72,156304987.6,66.75
+Mississippi,Working Landscapes,Forestry,21838.44,7033716487.43,1568735735.15,1060.75
+Mississippi,Working Landscapes,Mining,13571.52,6039802923.26,997236386.74,718.75
+Mississippi,Working Landscapes,Outdoor Recreation,3606.9,302676285.16,107256676.76,288.5
+Mississippi,Working Landscapes,Renewable Energy,20.0,12198652.6,1923019.53,4.5
+Missouri,Accommodation and Food Services,Accommodation and Food Services,282734.9,24475890165.87,8042386667.48,13709.5
+Missouri,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,203515.22,20800899462.59,10247813658.71,12128.25
+Missouri,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",71601.43,6561030835.29,2743193724.52,2224.75
+Missouri,Construction,Construction,223747.75,41358418415.3,17051182522.9,17111.5
+Missouri,Educational Services,Educational Services,111565.38,10951262436.16,6191287898.09,2609.0
+Missouri,Finance and Insurance,Finance and Insurance,249181.26,70856725526.91,25464613678.15,13316.25
+Missouri,Government,Government,456819.04,182319196744.71,34633370281.59,9446.75
+Missouri,Health Care and Social Assistance,Health Care and Social Assistance,482519.52,63285769787.8,34121554053.89,65344.75
+Missouri,Information,Information,63290.53,27663304348.97,6588959919.19,5947.5
+Missouri,Management of Companies and Enterprises,Management of Companies and Enterprises,66960.23,15255116926.67,9176730372.34,1875.0
+Missouri,Manufacturing,Manufacturing,216062.13,102286095383.51,20215414030.22,6025.0
+Missouri,Other Services (except Public Administration),Other Services (except Public Administration),218415.9,17133776364.62,7960546871.36,13924.5
+Missouri,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",237386.25,40933633268.51,22746000550.7,28273.25
+Missouri,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,220056.2,38403117785.51,11370882997.15,7607.0
+Missouri,Retail Trade,Retail Trade,373230.21,45038239750.22,15006519654.76,19010.75
+Missouri,Transportation and Warehousing,Transportation and Warehousing,193109.37,24309083151.35,9661765439.57,6037.0
+Missouri,Utilities,Utilities,10738.21,9232968517.84,1653303180.13,326.0
+Missouri,Wholesale Trade,Wholesale Trade,106073.73,38542466271.27,11190262088.13,10277.25
+Missouri,Working Landscapes,Agricultural Distribution,51976.64,10418820734.0,3477955002.56,3852.5
+Missouri,Working Landscapes,Agricultural Processing,55076.32,32630657824.19,4251186527.65,1140.25
+Missouri,Working Landscapes,Agricultural Production,104877.98,17256022776.4,3838316185.7,1756.75
+Missouri,Working Landscapes,Agricultural Support,28513.73,5909927398.41,1859222587.35,2029.75
+Missouri,Working Landscapes,Fishing,771.08,66460336.63,21428521.49,26.25
+Missouri,Working Landscapes,Forestry,23987.84,6478225457.31,1635912465.94,1093.5
+Missouri,Working Landscapes,Mining,18259.17,7237885029.17,1489315784.74,997.0
+Missouri,Working Landscapes,Outdoor Recreation,13440.75,1317607713.35,476831685.05,875.25
+Missouri,Working Landscapes,Renewable Energy,509.26,585413853.75,92620748.12,107.5
+Montana,Accommodation and Food Services,Accommodation and Food Services,64804.17,5824467621.73,1998480845.55,3876.75
+Montana,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,31394.66,3218825979.96,1593620931.25,4106.0
+Montana,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",18681.55,1482907492.79,514182669.48,1199.5
+Montana,Construction,Construction,59833.43,10028825612.32,4201076353.45,8093.25
+Montana,Educational Services,Educational Services,11675.99,656264373.83,403663625.44,949.0
+Montana,Finance and Insurance,Finance and Insurance,35648.7,7287713431.58,2709366090.35,3012.0
+Montana,Government,Government,100807.21,47977091575.04,7599335191.82,2198.5
+Montana,Health Care and Social Assistance,Health Care and Social Assistance,84121.08,11532383760.54,6181091950.52,5166.75
+Montana,Information,Information,8826.35,2812222655.05,729527210.22,1184.25
+Montana,Management of Companies and Enterprises,Management of Companies and Enterprises,3218.51,523881078.32,317195884.29,322.25
+Montana,Manufacturing,Manufacturing,16649.55,15549068221.89,1397937962.67,1157.75
+Montana,Other Services (except Public Administration),Other Services (except Public Administration),39744.1,3387547927.38,1566500975.59,4740.25
+Montana,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",46438.53,6394318860.67,3722512477.89,9925.0
+Montana,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,56192.96,9542130772.19,3015977050.7,2464.75
+Montana,Retail Trade,Retail Trade,75557.22,9265395055.54,3301230470.24,4402.75
+Montana,Transportation and Warehousing,Transportation and Warehousing,27294.48,4326503550.84,1487561503.67,1627.5
+Montana,Utilities,Utilities,2649.08,2093921909.38,384490682.22,153.75
+Montana,Wholesale Trade,Wholesale Trade,13654.09,4777492425.36,1328914862.1,2556.0
+Montana,Working Landscapes,Agricultural Distribution,10712.3,1717687576.11,584172849.34,1124.5
+Montana,Working Landscapes,Agricultural Processing,5064.48,1719624886.79,249707778.54,386.5
+Montana,Working Landscapes,Agricultural Production,30440.08,5286408479.58,1196038259.05,1067.5
+Montana,Working Landscapes,Agricultural Support,9765.74,907042018.79,468055025.05,894.0
+Montana,Working Landscapes,Fishing,823.43,49856963.02,20678398.89,13.0
+Montana,Working Landscapes,Forestry,6473.71,1633270334.95,479106604.17,607.5
+Montana,Working Landscapes,Mining,12987.13,5107746968.84,1082938271.89,740.5
+Montana,Working Landscapes,Outdoor Recreation,6642.58,671834646.89,248064654.07,696.5
+Montana,Working Landscapes,Renewable Energy,234.7,242362966.35,41343035.49,51.25
+Nebraska,Accommodation and Food Services,Accommodation and Food Services,88044.23,7788990476.91,2238474891.58,4807.75
+Nebraska,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,68507.84,8414140642.23,3796913168.27,5075.0
+Nebraska,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",24408.29,1757467845.9,602773006.17,857.5
+Nebraska,Construction,Construction,87583.24,16912513530.32,6292658108.24,7623.75
+Nebraska,Educational Services,Educational Services,25859.56,1778368845.97,958734865.61,803.75
+Nebraska,Finance and Insurance,Finance and Insurance,97623.21,29501749006.62,8423263448.58,4960.5
+Nebraska,Government,Government,189069.9,76832477136.61,14269816615.26,3407.25
+Nebraska,Health Care and Social Assistance,Health Care and Social Assistance,154728.65,21167456089.59,10790159796.63,9235.25
+Nebraska,Information,Information,21771.56,9886368870.01,1963037414.26,1582.25
+Nebraska,Management of Companies and Enterprises,Management of Companies and Enterprises,23645.3,5027048508.14,2943815525.9,1237.0
+Nebraska,Manufacturing,Manufacturing,53521.2,27623238378.33,4388680036.6,1196.0
+Nebraska,Other Services (except Public Administration),Other Services (except Public Administration),72650.19,6041372571.39,2687458881.36,4831.5
+Nebraska,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",70553.42,11597029587.47,6081526379.1,9222.25
+Nebraska,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,71622.91,16715336988.75,3624548540.59,2743.5
+Nebraska,Retail Trade,Retail Trade,123779.4,17380150088.42,4827391349.25,6339.0
+Nebraska,Transportation and Warehousing,Transportation and Warehousing,73442.14,14657496178.98,4554872063.13,2328.75
+Nebraska,Utilities,Utilities,1162.11,1225464807.72,254102100.76,97.75
+Nebraska,Wholesale Trade,Wholesale Trade,24847.86,12073410421.14,2607761582.75,3363.5
+Nebraska,Working Landscapes,Agricultural Distribution,25668.27,6826573358.35,1784877117.9,2401.0
+Nebraska,Working Landscapes,Agricultural Processing,43372.72,29852967350.26,3180010861.85,447.5
+Nebraska,Working Landscapes,Agricultural Production,57515.93,17140901552.8,3030678759.35,2437.5
+Nebraska,Working Landscapes,Agricultural Support,20692.1,5324329709.55,1387473580.42,1117.25
+Nebraska,Working Landscapes,Fishing,109.68,15281746.96,3737984.22,3.5
+Nebraska,Working Landscapes,Forestry,5205.85,1710495250.05,347113064.31,212.0
+Nebraska,Working Landscapes,Mining,6519.32,2765966745.45,493109724.53,390.75
+Nebraska,Working Landscapes,Outdoor Recreation,4101.11,415391287.75,133352861.35,224.5
+Nebraska,Working Landscapes,Renewable Energy,110.81,114007964.28,12895499.25,26.5
+Nevada,Accommodation and Food Services,Accommodation and Food Services,330487.06,53663747681.1,15793961168.65,7493.0
+Nevada,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,147322.25,14215204022.81,6788629339.12,6989.75
+Nevada,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",62077.36,10420500139.1,3187939452.75,1956.5
+Nevada,Construction,Construction,135829.24,29271367417.85,11771946869.14,6328.75
+Nevada,Educational Services,Educational Services,26722.68,2089151353.26,1268155039.22,1236.25
+Nevada,Finance and Insurance,Finance and Insurance,131339.05,30725994602.74,11632359804.58,4877.0
+Nevada,Government,Government,203790.78,104874536587.08,19548234395.95,1484.25
+Nevada,Health Care and Social Assistance,Health Care and Social Assistance,183653.71,24907702735.57,13316392402.13,9173.25
+Nevada,Information,Information,30044.52,13878260300.46,3362589105.84,2966.75
+Nevada,Management of Companies and Enterprises,Management of Companies and Enterprises,40761.62,11165590299.76,6658823026.87,4075.75
+Nevada,Manufacturing,Manufacturing,55090.56,20904723278.82,5100244815.46,1569.0
+Nevada,Other Services (except Public Administration),Other Services (except Public Administration),106196.12,9085249690.38,4273725408.94,5604.25
+Nevada,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",122712.71,19842581552.82,10734095018.5,13681.25
+Nevada,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,139038.94,27840027224.27,7559699852.14,4938.75
+Nevada,Retail Trade,Retail Trade,180056.87,26576458851.85,8297067279.81,7593.25
+Nevada,Transportation and Warehousing,Transportation and Warehousing,165338.35,21286180826.77,8375039132.94,2351.75
+Nevada,Utilities,Utilities,4167.4,4330849273.47,739012215.41,71.5
+Nevada,Wholesale Trade,Wholesale Trade,36752.54,16036427942.37,4248718070.49,4044.75
+Nevada,Working Landscapes,Agricultural Distribution,21195.95,4109619327.2,1321334943.47,1343.5
+Nevada,Working Landscapes,Agricultural Processing,9898.56,4010103940.62,672247812.44,315.0
+Nevada,Working Landscapes,Agricultural Production,8226.92,1813353063.38,399236259.84,320.0
+Nevada,Working Landscapes,Agricultural Support,8474.83,1047075106.09,527203998.7,746.25
+Nevada,Working Landscapes,Fishing,547.57,94269476.86,29663680.48,23.75
+Nevada,Working Landscapes,Forestry,5077.93,1606597759.61,403282465.19,261.0
+Nevada,Working Landscapes,Mining,24391.77,13800025090.5,2744166768.92,516.0
+Nevada,Working Landscapes,Outdoor Recreation,8476.16,930092147.99,360610814.51,388.5
+Nevada,Working Landscapes,Renewable Energy,672.74,645161635.78,93382709.59,35.0
+New Hampshire,Accommodation and Food Services,Accommodation and Food Services,63768.37,6517503200.99,2193847486.39,3844.5
+New Hampshire,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,52116.44,7529165498.58,3857548145.29,6511.25
+New Hampshire,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",20770.92,1636151942.67,626663011.01,739.0
+New Hampshire,Construction,Construction,59946.06,11304155189.74,4657098729.53,5520.0
+New Hampshire,Educational Services,Educational Services,36050.18,3906111457.07,2260371139.69,1255.5
+New Hampshire,Finance and Insurance,Finance and Insurance,52909.17,15964633506.97,6226058157.74,2962.75
+New Hampshire,Government,Government,90179.54,39586687083.8,7822456589.1,2650.5
+New Hampshire,Health Care and Social Assistance,Health Care and Social Assistance,108486.52,16585728351.52,9041747239.86,4439.75
+New Hampshire,Information,Information,16527.54,7818415742.65,2006190818.52,1720.0
+New Hampshire,Management of Companies and Enterprises,Management of Companies and Enterprises,12074.56,2890246477.27,1735218506.07,1171.5
+New Hampshire,Manufacturing,Manufacturing,65711.56,24937509175.03,7219767192.12,1584.25
+New Hampshire,Other Services (except Public Administration),Other Services (except Public Administration),46863.81,4654566456.87,2160068452.2,4477.5
+New Hampshire,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",75285.41,15197853906.11,8661624071.17,11696.75
+New Hampshire,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,56307.96,10478762975.09,3239922635.84,1533.0
+New Hampshire,Retail Trade,Retail Trade,104071.75,15939577799.19,5245227598.46,5368.0
+New Hampshire,Transportation and Warehousing,Transportation and Warehousing,30977.15,3364645210.27,1451780807.91,1051.0
+New Hampshire,Utilities,Utilities,1659.89,1879664642.56,314278286.79,53.75
+New Hampshire,Wholesale Trade,Wholesale Trade,27354.14,11912331731.97,4134654925.44,5208.75
+New Hampshire,Working Landscapes,Agricultural Distribution,10052.19,1977966103.29,649866256.34,837.25
+New Hampshire,Working Landscapes,Agricultural Processing,4534.29,2078764920.01,329323331.0,226.5
+New Hampshire,Working Landscapes,Agricultural Production,5678.24,773133224.49,176710206.36,160.0
+New Hampshire,Working Landscapes,Agricultural Support,5590.19,806080773.61,416328598.36,698.75
+New Hampshire,Working Landscapes,Fishing,675.6,159167299.98,42940682.69,30.75
+New Hampshire,Working Landscapes,Forestry,5250.81,1652685372.5,436165156.46,343.25
+New Hampshire,Working Landscapes,Mining,3067.65,1170300592.84,272901374.05,233.25
+New Hampshire,Working Landscapes,Outdoor Recreation,7999.34,881541763.58,320030084.1,478.0
+New Hampshire,Working Landscapes,Renewable Energy,423.59,486054274.93,75912224.96,39.0
+New Jersey,Accommodation and Food Services,Accommodation and Food Services,366220.41,40996707649.11,13235676695.27,21783.0
+New Jersey,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,363112.01,45599363131.82,22439425588.46,19581.75
+New Jersey,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",113245.85,13713781191.7,4997523080.57,3584.5
+New Jersey,Construction,Construction,271629.54,56726962136.79,23427411037.96,22888.75
+New Jersey,Educational Services,Educational Services,151542.98,13542706051.11,8206071262.87,4788.25
+New Jersey,Finance and Insurance,Finance and Insurance,458475.1,155310885307.24,59391438311.01,13521.25
+New Jersey,Government,Government,608204.56,280249709335.07,63426005578.9,5451.75
+New Jersey,Health Care and Social Assistance,Health Care and Social Assistance,738102.22,107083660884.96,58024080320.65,57059.0
+New Jersey,Information,Information,108675.74,66399657743.76,16498900322.87,6006.25
+New Jersey,Management of Companies and Enterprises,Management of Companies and Enterprises,97819.86,33252579511.3,19798055605.0,1947.5
+New Jersey,Manufacturing,Manufacturing,200317.52,129372954340.21,26751522680.87,7310.0
+New Jersey,Other Services (except Public Administration),Other Services (except Public Administration),315373.04,29131865068.56,13533449606.81,25929.25
+New Jersey,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",504812.28,114330519079.66,62673901152.33,40918.5
+New Jersey,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,479923.02,98393390021.21,26940073404.09,9418.0
+New Jersey,Retail Trade,Retail Trade,492106.86,81018686665.95,25259091076.93,25842.25
+New Jersey,Transportation and Warehousing,Transportation and Warehousing,408489.27,60022176779.93,23324918232.24,8618.0
+New Jersey,Utilities,Utilities,12932.41,13061130443.06,2358744528.98,289.0
+New Jersey,Wholesale Trade,Wholesale Trade,182514.28,93681141289.55,23486999756.92,13560.5
+New Jersey,Working Landscapes,Agricultural Distribution,103417.3,23504904550.71,7873956358.37,6827.5
+New Jersey,Working Landscapes,Agricultural Processing,49104.23,22146579412.1,3757052354.09,1823.0
+New Jersey,Working Landscapes,Agricultural Production,19497.31,3394167365.34,886474898.25,703.75
+New Jersey,Working Landscapes,Agricultural Support,24539.02,4528240993.14,2098594490.02,1862.0
+New Jersey,Working Landscapes,Fishing,3138.07,714660949.63,229458860.75,158.75
+New Jersey,Working Landscapes,Forestry,18288.63,6053291121.16,1497494089.7,825.0
+New Jersey,Working Landscapes,Mining,12591.07,6345119693.3,1295237379.68,794.75
+New Jersey,Working Landscapes,Outdoor Recreation,18881.47,2124393922.24,748693700.08,1240.5
+New Jersey,Working Landscapes,Renewable Energy,908.29,1057287461.93,155936759.11,98.25
+New Mexico,Accommodation and Food Services,Accommodation and Food Services,95210.05,9506716379.31,2752284260.22,4381.75
+New Mexico,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,61225.86,7282025669.24,3212891248.55,4407.5
+New Mexico,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",22355.88,1695071542.15,619202181.18,710.75
+New Mexico,Construction,Construction,71676.05,12371851031.49,4940897831.81,5504.75
+New Mexico,Educational Services,Educational Services,21606.38,1366976502.59,883868910.67,1191.75
+New Mexico,Finance and Insurance,Finance and Insurance,43293.87,10211845229.09,3091765801.93,3362.5
+New Mexico,Government,Government,209764.66,114096966054.04,17700719422.73,3968.0
+New Mexico,Health Care and Social Assistance,Health Care and Social Assistance,145174.15,16334139866.11,8689236979.27,10588.5
+New Mexico,Information,Information,15577.24,7266650947.38,1131255019.01,1980.5
+New Mexico,Management of Companies and Enterprises,Management of Companies and Enterprises,6547.08,1097704076.87,649544920.55,536.0
+New Mexico,Manufacturing,Manufacturing,21677.81,11216022409.0,1769432486.43,1089.0
+New Mexico,Other Services (except Public Administration),Other Services (except Public Administration),58211.26,4635369064.34,2082499831.14,4626.25
+New Mexico,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",91618.89,19907641150.28,8965608973.43,8481.0
+New Mexico,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,51349.04,9182237409.39,2622966022.44,2644.25
+New Mexico,Retail Trade,Retail Trade,111361.37,14748645112.56,4357730662.9,5943.5
+New Mexico,Transportation and Warehousing,Transportation and Warehousing,46793.07,6535752191.88,2255960107.56,1479.0
+New Mexico,Utilities,Utilities,3536.68,3209129558.7,502480550.6,151.25
+New Mexico,Wholesale Trade,Wholesale Trade,18061.93,6492542953.15,1424591623.03,2443.25
+New Mexico,Working Landscapes,Agricultural Distribution,12131.97,2163782386.97,665934442.61,949.5
+New Mexico,Working Landscapes,Agricultural Processing,8772.84,3979479463.33,485842180.73,305.75
+New Mexico,Working Landscapes,Agricultural Production,29792.89,5373487067.82,1071807738.2,769.0
+New Mexico,Working Landscapes,Agricultural Support,10909.27,1182644982.11,565532498.01,879.0
+New Mexico,Working Landscapes,Fishing,175.97,14358466.52,4769006.12,6.0
+New Mexico,Working Landscapes,Forestry,2846.87,610696309.07,160386105.46,207.75
+New Mexico,Working Landscapes,Mining,34578.36,19027926581.01,3271929398.91,1308.25
+New Mexico,Working Landscapes,Outdoor Recreation,4983.2,469704820.26,153582286.34,301.25
+New Mexico,Working Landscapes,Renewable Energy,224.54,209259833.37,27669625.88,25.0
+New York,Accommodation and Food Services,Accommodation and Food Services,815145.96,113780907135.15,34093361449.65,53396.25
+New York,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,655251.47,93258178031.87,44232349330.46,37673.0
+New York,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",308901.01,52102229093.94,18934170983.26,11931.5
+New York,Construction,Construction,553271.34,123638198761.52,47597758596.2,52969.5
+New York,Educational Services,Educational Services,503601.93,66617452590.48,36803768124.66,10522.5
+New York,Finance and Insurance,Finance and Insurance,1216453.17,599372850172.59,236900424058.7,29205.25
+New York,Government,Government,1500957.18,902088655929.47,192141901068.94,16070.5
+New York,Health Care and Social Assistance,Health Care and Social Assistance,1975118.08,280373645395.01,147552199884.13,59724.5
+New York,Information,Information,345643.18,280331355314.46,61269519796.89,17820.0
+New York,Management of Companies and Enterprises,Management of Companies and Enterprises,182084.23,54584370427.46,32007564287.12,4996.0
+New York,Manufacturing,Manufacturing,331735.63,161354383720.16,35384426770.26,11778.5
+New York,Other Services (except Public Administration),Other Services (except Public Administration),689750.73,66509438052.17,31318805617.21,67644.75
+New York,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",1058144.79,279482422914.64,143518011530.31,80669.75
+New York,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,951796.34,250098241971.61,60397754587.82,35893.75
+New York,Retail Trade,Retail Trade,948893.14,183079249454.24,51127332334.61,61713.5
+New York,Transportation and Warehousing,Transportation and Warehousing,661122.55,101797034935.18,33893377930.52,13090.75
+New York,Utilities,Utilities,38510.9,58664675888.17,7523381332.6,540.25
+New York,Wholesale Trade,Wholesale Trade,262510.15,146021180404.63,33631062290.22,24911.75
+New York,Working Landscapes,Agricultural Distribution,152826.59,39993451913.46,11385679127.48,14226.5
+New York,Working Landscapes,Agricultural Processing,78695.37,38583281888.79,5500982959.68,3433.0
+New York,Working Landscapes,Agricultural Production,57685.42,16259553296.68,2953965713.47,2641.25
+New York,Working Landscapes,Agricultural Support,48617.38,8502956215.01,3791864135.0,4013.25
+New York,Working Landscapes,Fishing,4306.24,821858490.15,229481954.95,318.75
+New York,Working Landscapes,Forestry,33702.41,13391238988.53,2678312990.06,1751.25
+New York,Working Landscapes,Mining,26951.95,13449777491.2,2486423404.96,1477.75
+New York,Working Landscapes,Outdoor Recreation,40331.31,5718270154.97,1862975570.94,2871.75
+New York,Working Landscapes,Renewable Energy,2774.07,3694519307.75,446369959.77,189.0
+North Carolina,Accommodation and Food Services,Accommodation and Food Services,493982.14,42720911309.85,13916314068.62,26029.0
+North Carolina,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,460934.21,47067074684.36,22945568858.44,27786.0
+North Carolina,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",131717.04,10516621394.49,4600724161.41,4620.5
+North Carolina,Construction,Construction,433990.75,74275969716.55,30339622018.9,36427.0
+North Carolina,Educational Services,Educational Services,157569.49,15124143081.83,8761414837.6,5469.0
+North Carolina,Finance and Insurance,Finance and Insurance,405328.08,133769325689.9,45167096847.69,20016.0
+North Carolina,Government,Government,861747.99,356437834670.65,70179541696.44,8115.5
+North Carolina,Health Care and Social Assistance,Health Care and Social Assistance,657786.06,85049452597.94,45985342421.42,34467.0
+North Carolina,Information,Information,114766.65,54622937529.51,13355696234.11,10344.0
+North Carolina,Management of Companies and Enterprises,Management of Companies and Enterprises,96239.83,23853766765.5,14307439399.71,2157.75
+North Carolina,Manufacturing,Manufacturing,355075.3,157423716427.41,33177583504.77,8098.75
+North Carolina,Other Services (except Public Administration),Other Services (except Public Administration),379595.67,28846712444.69,13472835692.48,30437.0
+North Carolina,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",479891.78,85136440039.37,46944639867.21,60312.25
+North Carolina,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,391888.02,73622539770.02,21703582125.4,18132.5
+North Carolina,Retail Trade,Retail Trade,623992.19,78784870568.36,26069491232.74,36140.25
+North Carolina,Transportation and Warehousing,Transportation and Warehousing,325226.75,41111104041.2,15953550505.58,10482.5
+North Carolina,Utilities,Utilities,14584.86,12654178950.25,2050581072.75,514.5
+North Carolina,Wholesale Trade,Wholesale Trade,177435.54,71864813360.76,21020313280.22,19895.0
+North Carolina,Working Landscapes,Agricultural Distribution,70582.87,13753639846.41,4478729253.85,5048.75
+North Carolina,Working Landscapes,Agricultural Processing,82680.03,30424880834.44,4848014855.87,1811.25
+North Carolina,Working Landscapes,Agricultural Production,66680.94,11913206299.35,2579317587.84,2373.0
+North Carolina,Working Landscapes,Agricultural Support,42054.89,8089849829.77,2746385244.46,2807.25
+North Carolina,Working Landscapes,Fishing,4386.16,535346135.8,158982920.92,127.0
+North Carolina,Working Landscapes,Forestry,54068.29,18289382042.56,4041932446.93,2175.25
+North Carolina,Working Landscapes,Mining,21330.26,7432396094.22,1685144210.46,1164.25
+North Carolina,Working Landscapes,Outdoor Recreation,20411.81,1993712148.94,730343877.29,1738.25
+North Carolina,Working Landscapes,Renewable Energy,1205.88,1064270960.32,162740125.45,107.5
+North Dakota,Accommodation and Food Services,Accommodation and Food Services,37050.1,3026195286.18,975473223.61,2179.75
+North Dakota,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,19098.42,1950723100.78,935834959.22,2144.5
+North Dakota,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",9630.3,592607373.62,202342407.25,426.25
+North Dakota,Construction,Construction,37940.44,7747294260.87,3135341801.66,3860.5
+North Dakota,Educational Services,Educational Services,7873.88,442457203.01,267539909.92,357.0
+North Dakota,Finance and Insurance,Finance and Insurance,32361.38,7916789032.76,2659891561.87,2167.25
+North Dakota,Government,Government,89583.2,37652900490.86,6468376008.01,2116.0
+North Dakota,Health Care and Social Assistance,Health Care and Social Assistance,70788.05,9605213007.35,5087348133.93,3147.75
+North Dakota,Information,Information,7223.32,2682675053.02,657100044.24,808.5
+North Dakota,Management of Companies and Enterprises,Management of Companies and Enterprises,5375.63,1170044894.7,700310557.92,607.75
+North Dakota,Manufacturing,Manufacturing,17548.86,9529599954.15,1518119877.0,524.25
+North Dakota,Other Services (except Public Administration),Other Services (except Public Administration),27862.87,2634561562.39,1172461160.19,2288.25
+North Dakota,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",22993.43,3263295697.59,1784237084.39,3417.5
+North Dakota,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,32918.97,5934342981.53,1840663843.39,1061.5
+North Dakota,Retail Trade,Retail Trade,53374.5,7146352497.46,2263067039.38,2855.25
+North Dakota,Transportation and Warehousing,Transportation and Warehousing,26426.57,5845090259.03,1754286872.19,1363.5
+North Dakota,Utilities,Utilities,3087.92,3205502364.57,528634486.12,118.5
+North Dakota,Wholesale Trade,Wholesale Trade,14131.95,6981647293.67,1432342929.58,1751.0
+North Dakota,Working Landscapes,Agricultural Distribution,14547.0,3730545125.65,1113264744.48,1521.5
+North Dakota,Working Landscapes,Agricultural Processing,6166.97,3978267764.79,459119203.64,188.25
+North Dakota,Working Landscapes,Agricultural Production,32334.27,8557058106.55,1971350176.61,1156.0
+North Dakota,Working Landscapes,Agricultural Support,11631.58,2629386043.89,854635194.76,843.5
+North Dakota,Working Landscapes,Fishing,147.83,18276964.53,4977781.97,1.25
+North Dakota,Working Landscapes,Forestry,3805.05,1059991014.37,253558743.98,99.5
+North Dakota,Working Landscapes,Mining,26535.2,16232881153.13,3261682425.44,887.5
+North Dakota,Working Landscapes,Outdoor Recreation,2029.63,162191348.6,60127657.41,161.0
+North Dakota,Working Landscapes,Renewable Energy,156.83,145752323.69,21163381.49,25.25
+Ohio,Accommodation and Food Services,Accommodation and Food Services,522228.05,45042284057.01,13833724575.61,26309.0
+Ohio,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,409221.21,42425867549.94,19993260091.76,21163.25
+Ohio,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",136321.06,14238657920.87,5179522508.12,3773.75
+Ohio,Construction,Construction,384257.92,72980699843.07,28968586082.64,25574.0
+Ohio,Educational Services,Educational Services,156155.77,10567995993.17,6265776289.05,4183.5
+Ohio,Finance and Insurance,Finance and Insurance,433846.0,132607050399.58,40426398885.75,18532.0
+Ohio,Government,Government,814023.31,341254898256.93,68411079635.43,14454.5
+Ohio,Health Care and Social Assistance,Health Care and Social Assistance,935722.6,125894921991.74,66127797614.42,35530.5
+Ohio,Information,Information,94032.83,37818022440.14,8602800127.01,8297.0
+Ohio,Management of Companies and Enterprises,Management of Companies and Enterprises,156812.03,39602038111.21,23529140603.05,2953.5
+Ohio,Manufacturing,Manufacturing,573518.45,317521697091.05,53504431508.31,12455.75
+Ohio,Other Services (except Public Administration),Other Services (except Public Administration),391616.82,32880250639.21,14850919369.93,25587.5
+Ohio,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",434553.94,72864068445.7,39868398277.09,43947.5
+Ohio,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,372737.11,70867800912.74,19879154737.61,12938.5
+Ohio,Retail Trade,Retail Trade,639983.17,85917757908.64,26319668306.78,33002.0
+Ohio,Transportation and Warehousing,Transportation and Warehousing,446290.61,57677174185.23,22022497548.44,10206.75
+Ohio,Utilities,Utilities,17743.76,18708042005.32,3024444532.65,593.75
+Ohio,Wholesale Trade,Wholesale Trade,208633.53,86343019825.19,22841132360.45,20631.5
+Ohio,Working Landscapes,Agricultural Distribution,85984.9,17620900762.16,5546138029.68,5768.5
+Ohio,Working Landscapes,Agricultural Processing,84278.52,47085771692.02,6265593632.45,1739.75
+Ohio,Working Landscapes,Agricultural Production,88477.21,18132772137.17,3607583898.87,1617.25
+Ohio,Working Landscapes,Agricultural Support,38331.81,6899541263.62,2432083649.58,2716.5
+Ohio,Working Landscapes,Fishing,989.67,94236274.75,31625565.92,37.0
+Ohio,Working Landscapes,Forestry,51731.95,17680402612.44,3821362748.17,1703.25
+Ohio,Working Landscapes,Mining,40667.21,16650795517.9,3010773575.97,1895.0
+Ohio,Working Landscapes,Outdoor Recreation,20728.33,1995582341.86,699074740.26,1304.25
+Ohio,Working Landscapes,Renewable Energy,459.29,560073105.38,76400681.77,75.75
+Oklahoma,Accommodation and Food Services,Accommodation and Food Services,176389.53,13241840279.86,4436809651.67,8674.5
+Oklahoma,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,145931.22,13982859411.48,6866918594.73,10380.5
+Oklahoma,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",35501.96,2739174954.55,1108369122.77,1185.0
+Oklahoma,Construction,Construction,142919.5,22012074565.02,9135558126.05,11095.0
+Oklahoma,Educational Services,Educational Services,35388.66,2353335522.5,1478985374.73,1411.0
+Oklahoma,Finance and Insurance,Finance and Insurance,139256.26,26769932731.13,9688141746.58,8379.0
+Oklahoma,Government,Government,385862.15,164247825010.16,27585445527.73,5942.0
+Oklahoma,Health Care and Social Assistance,Health Care and Social Assistance,247137.77,30605390902.13,16622868633.56,14272.75
+Oklahoma,Information,Information,28419.19,9501940758.9,1981305953.16,2770.25
+Oklahoma,Management of Companies and Enterprises,Management of Companies and Enterprises,29038.59,6201748529.36,3746698613.64,669.5
+Oklahoma,Manufacturing,Manufacturing,107638.96,50351475785.85,9378154522.05,2983.75
+Oklahoma,Other Services (except Public Administration),Other Services (except Public Administration),136442.54,9684190572.72,4540394433.52,7088.75
+Oklahoma,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",127185.61,15731586044.19,8937154219.43,16819.0
+Oklahoma,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,121330.01,19025094856.51,5694786753.41,4853.75
+Oklahoma,Retail Trade,Retail Trade,221435.39,25219204611.94,8715667463.75,12730.25
+Oklahoma,Transportation and Warehousing,Transportation and Warehousing,113551.64,17205470318.39,5997531354.28,3304.75
+Oklahoma,Utilities,Utilities,9820.82,7451967676.0,1441081851.64,360.25
+Oklahoma,Wholesale Trade,Wholesale Trade,51319.47,16617987489.62,4731073799.78,6817.5
+Oklahoma,Working Landscapes,Agricultural Distribution,27747.69,4423852303.42,1530769684.86,2267.25
+Oklahoma,Working Landscapes,Agricultural Processing,24783.19,11463875964.93,1598149809.17,628.25
+Oklahoma,Working Landscapes,Agricultural Production,89530.91,12131158427.88,2702233986.56,1194.5
+Oklahoma,Working Landscapes,Agricultural Support,19104.46,2828739914.06,1087550946.15,1311.0
+Oklahoma,Working Landscapes,Fishing,631.59,19166967.71,7480697.34,5.25
+Oklahoma,Working Landscapes,Forestry,8498.7,2943843763.12,617264399.94,358.75
+Oklahoma,Working Landscapes,Mining,96366.22,55905478425.96,8607460589.56,3937.0
+Oklahoma,Working Landscapes,Outdoor Recreation,6157.67,551731481.12,206689450.51,474.5
+Oklahoma,Working Landscapes,Renewable Energy,592.54,522482766.12,84794073.33,51.5
+Oregon,Accommodation and Food Services,Accommodation and Food Services,194257.64,19732739804.45,6450442685.11,13088.5
+Oregon,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,133600.86,15234636182.31,7183974944.45,10011.5
+Oregon,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",55427.53,4092002755.27,1866621949.27,1874.5
+Oregon,Construction,Construction,155368.76,33106440960.92,13371430630.9,18430.0
+Oregon,Educational Services,Educational Services,52104.72,3732626224.25,2263798703.09,2993.75
+Oregon,Finance and Insurance,Finance and Insurance,113623.81,31033490745.0,10561824879.11,7793.0
+Oregon,Government,Government,313125.02,165856244710.77,33209211953.2,6060.25
+Oregon,Health Care and Social Assistance,Health Care and Social Assistance,335859.52,46479252675.16,25068970947.81,23827.0
+Oregon,Information,Information,51031.0,24441233894.34,6266771355.41,7320.0
+Oregon,Management of Companies and Enterprises,Management of Companies and Enterprises,54248.26,15347535563.31,9179221895.05,1544.75
+Oregon,Manufacturing,Manufacturing,127077.4,45196593381.59,14794927579.98,4534.5
+Oregon,Other Services (except Public Administration),Other Services (except Public Administration),139287.47,12810152404.25,5977246318.39,17039.25
+Oregon,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",179022.47,29044633507.36,16010099744.49,22804.5
+Oregon,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,152333.76,33217259241.68,9301283217.06,7514.5
+Oregon,Retail Trade,Retail Trade,241994.17,33326338780.67,10939078513.17,13290.0
+Oregon,Transportation and Warehousing,Transportation and Warehousing,137733.17,16737464535.42,6656616162.95,4126.75
+Oregon,Utilities,Utilities,4171.65,4421244257.4,767088754.07,131.25
+Oregon,Wholesale Trade,Wholesale Trade,59093.99,24655627645.08,6910322065.87,7560.0
+Oregon,Working Landscapes,Agricultural Distribution,40104.71,7621817651.81,2481495265.28,2660.5
+Oregon,Working Landscapes,Agricultural Processing,37895.24,15111172750.93,2502284107.09,1724.0
+Oregon,Working Landscapes,Agricultural Production,70248.48,12443674968.71,2958306683.73,3509.75
+Oregon,Working Landscapes,Agricultural Support,31566.6,4204181438.81,2031879209.83,4366.5
+Oregon,Working Landscapes,Fishing,4502.74,784019765.52,244101040.45,201.75
+Oregon,Working Landscapes,Forestry,47300.82,16610849160.07,3846137846.33,2052.5
+Oregon,Working Landscapes,Mining,10500.17,4379343873.46,767538093.97,519.5
+Oregon,Working Landscapes,Outdoor Recreation,11484.41,1186513905.14,435221361.89,960.5
+Oregon,Working Landscapes,Renewable Energy,785.08,969758280.32,141182827.22,76.25
+Pennsylvania,Accommodation and Food Services,Accommodation and Food Services,502260.88,44100987322.14,14395103946.21,28134.5
+Pennsylvania,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,389909.41,43001826085.99,19928040077.38,20012.75
+Pennsylvania,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",156369.93,15751939810.81,5956355180.82,4696.5
+Pennsylvania,Construction,Construction,404729.25,78445460276.58,31890191013.6,30706.5
+Pennsylvania,Educational Services,Educational Services,319053.23,33659573950.31,19109305415.16,5986.25
+Pennsylvania,Finance and Insurance,Finance and Insurance,515717.81,160947967559.88,55563089774.91,20526.5
+Pennsylvania,Government,Government,717294.45,363442406971.55,67622121175.98,13096.25
+Pennsylvania,Health Care and Social Assistance,Health Care and Social Assistance,1204160.65,162250818842.06,88332579219.22,51542.0
+Pennsylvania,Information,Information,122955.21,61995693968.15,14594261848.66,9252.0
+Pennsylvania,Management of Companies and Enterprises,Management of Companies and Enterprises,161007.73,47142670743.21,28159037403.58,7255.75
+Pennsylvania,Manufacturing,Manufacturing,433051.26,217834124637.47,42444442749.86,10273.25
+Pennsylvania,Other Services (except Public Administration),Other Services (except Public Administration),437113.88,36958525205.79,16812094146.24,35370.5
+Pennsylvania,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",560204.54,115671296751.43,61392142283.2,51037.25
+Pennsylvania,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,424017.86,83634799929.64,23810760347.23,12285.5
+Pennsylvania,Retail Trade,Retail Trade,700835.55,91694079606.85,29332720862.15,36209.5
+Pennsylvania,Transportation and Warehousing,Transportation and Warehousing,484232.69,62512489186.72,25150808455.18,10798.25
+Pennsylvania,Utilities,Utilities,22164.64,24714467809.49,3971590665.48,539.0
+Pennsylvania,Wholesale Trade,Wholesale Trade,191689.31,72068605299.88,23095079333.74,20762.5
+Pennsylvania,Working Landscapes,Agricultural Distribution,85471.02,15125709393.04,5169680532.69,5570.0
+Pennsylvania,Working Landscapes,Agricultural Processing,91692.19,45968913692.41,6561079582.63,2109.75
+Pennsylvania,Working Landscapes,Agricultural Production,74719.9,14606282497.09,3145027276.62,1975.75
+Pennsylvania,Working Landscapes,Agricultural Support,47650.17,7284329709.53,3348032679.56,3664.75
+Pennsylvania,Working Landscapes,Fishing,1362.35,230541030.0,72026079.92,37.75
+Pennsylvania,Working Landscapes,Forestry,63369.38,20427464248.35,4845390905.73,2135.0
+Pennsylvania,Working Landscapes,Mining,57053.3,30695745292.72,5428686286.92,2157.0
+Pennsylvania,Working Landscapes,Outdoor Recreation,27643.31,2550635706.54,911314950.4,1812.25
+Pennsylvania,Working Landscapes,Renewable Energy,474.57,532139056.77,77993156.05,40.75
+Rhode Island,Accommodation and Food Services,Accommodation and Food Services,55163.4,5620882498.28,1834872615.05,3282.0
+Rhode Island,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,36302.77,4316946435.03,1989783745.62,3940.25
+Rhode Island,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",13656.45,1304584960.58,456375554.23,591.25
+Rhode Island,Construction,Construction,34273.98,6785000270.22,2782194239.92,4100.25
+Rhode Island,Educational Services,Educational Services,35545.04,3506421748.68,2001304166.3,1035.5
+Rhode Island,Finance and Insurance,Finance and Insurance,43753.35,13533270216.35,4446901870.23,2317.25
+Rhode Island,Government,Government,71549.46,47768068355.56,7276955180.08,727.5
+Rhode Island,Health Care and Social Assistance,Health Care and Social Assistance,92666.54,12787659920.62,6758593900.46,5362.25
+Rhode Island,Information,Information,8628.64,3438856721.49,807000414.09,1461.5
+Rhode Island,Management of Companies and Enterprises,Management of Companies and Enterprises,12200.96,3026924586.47,1800917377.17,293.75
+Rhode Island,Manufacturing,Manufacturing,35424.54,11846632962.36,3179471508.58,1148.75
+Rhode Island,Other Services (except Public Administration),Other Services (except Public Administration),35566.93,3304473050.85,1499451077.56,4073.25
+Rhode Island,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",47928.98,7942273445.42,4450573969.78,8838.0
+Rhode Island,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,40453.21,7979894555.78,2347509870.74,1420.25
+Rhode Island,Retail Trade,Retail Trade,53338.94,7993889906.93,2458723366.15,3363.75
+Rhode Island,Transportation and Warehousing,Transportation and Warehousing,29557.36,2765443239.98,1068737088.81,911.75
+Rhode Island,Utilities,Utilities,1962.23,1583679028.34,269272639.3,36.75
+Rhode Island,Wholesale Trade,Wholesale Trade,14611.39,5391805811.0,1677564737.19,3114.0
+Rhode Island,Working Landscapes,Agricultural Distribution,7773.52,1349510691.73,448531659.72,871.25
+Rhode Island,Working Landscapes,Agricultural Processing,4999.93,1860537810.75,308855292.56,228.75
+Rhode Island,Working Landscapes,Agricultural Production,2129.26,333647852.81,78224611.31,165.5
+Rhode Island,Working Landscapes,Agricultural Support,3063.24,419855995.6,217056219.11,497.5
+Rhode Island,Working Landscapes,Fishing,1636.85,253607972.82,83200617.8,58.25
+Rhode Island,Working Landscapes,Forestry,2119.62,639161671.74,145044696.55,114.25
+Rhode Island,Working Landscapes,Mining,1310.63,600547192.99,96490142.22,87.5
+Rhode Island,Working Landscapes,Outdoor Recreation,3690.57,474523518.29,170298783.14,328.5
+Rhode Island,Working Landscapes,Renewable Energy,190.76,207800595.5,29583180.27,20.25
+South Carolina,Accommodation and Food Services,Accommodation and Food Services,265711.07,24081257189.65,7657102082.04,12720.0
+South Carolina,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,227515.44,21568928790.52,9992427491.13,12283.0
+South Carolina,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",57768.43,3739844103.28,1467754948.56,2121.75
+South Carolina,Construction,Construction,187773.08,32256727836.65,13210658065.14,15196.75
+South Carolina,Educational Services,Educational Services,56934.86,3632365798.58,2215970913.53,2563.0
+South Carolina,Finance and Insurance,Finance and Insurance,164380.24,40494160942.43,13618384937.65,11018.5
+South Carolina,Government,Government,425231.77,160837311353.85,31759077331.81,4221.25
+South Carolina,Health Care and Social Assistance,Health Care and Social Assistance,278985.17,33392427289.94,18749981625.35,16817.5
+South Carolina,Information,Information,40657.07,15961237548.69,3696233806.34,5551.25
+South Carolina,Management of Companies and Enterprises,Management of Companies and Enterprises,29658.96,5639749946.74,3372868102.32,1668.25
+South Carolina,Manufacturing,Manufacturing,221346.2,110449092504.38,20566842724.41,7049.5
+South Carolina,Other Services (except Public Administration),Other Services (except Public Administration),196169.31,14460315298.9,6697747112.86,11869.75
+South Carolina,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",198341.98,30463061779.96,16962036628.68,30213.75
+South Carolina,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,185764.84,33131033522.28,9915705482.75,8374.0
+South Carolina,Retail Trade,Retail Trade,310472.95,39579996264.21,12652887211.97,18472.25
+South Carolina,Transportation and Warehousing,Transportation and Warehousing,150271.18,16227645053.91,6890260160.83,4727.75
+South Carolina,Utilities,Utilities,10174.01,9584468817.91,1484750796.81,357.0
+South Carolina,Wholesale Trade,Wholesale Trade,74288.18,23501189996.85,7720976328.51,8650.5
+South Carolina,Working Landscapes,Agricultural Distribution,35780.04,6062830345.35,2002187723.83,2855.5
+South Carolina,Working Landscapes,Agricultural Processing,25644.77,9943613597.68,1694223387.41,859.5
+South Carolina,Working Landscapes,Agricultural Production,29342.46,4170725203.17,951246397.19,636.0
+South Carolina,Working Landscapes,Agricultural Support,17020.64,2441354499.44,1096919108.87,2005.75
+South Carolina,Working Landscapes,Fishing,1177.11,105429361.29,37715235.32,59.5
+South Carolina,Working Landscapes,Forestry,30443.52,12513111626.76,2561634091.59,1407.25
+South Carolina,Working Landscapes,Mining,12517.44,5612340368.51,1145596025.13,663.0
+South Carolina,Working Landscapes,Outdoor Recreation,13210.82,1380882102.65,487477437.65,898.0
+South Carolina,Working Landscapes,Renewable Energy,666.54,620949007.83,93501400.6,147.0
+South Dakota,Accommodation and Food Services,Accommodation and Food Services,45804.2,3990618598.23,1196337359.17,2460.25
+South Dakota,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,21356.6,2023064172.64,932662345.69,2523.0
+South Dakota,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",11908.26,1037965459.08,317863695.75,598.25
+South Dakota,Construction,Construction,42015.05,7881349567.41,3024891227.53,4362.5
+South Dakota,Educational Services,Educational Services,10465.66,559984486.98,350284821.5,485.25
+South Dakota,Finance and Insurance,Finance and Insurance,48191.39,12079039854.65,3938667616.63,2658.0
+South Dakota,Government,Government,88526.24,40076919466.64,6107576825.2,2296.25
+South Dakota,Health Care and Social Assistance,Health Care and Social Assistance,77471.02,11302131753.22,5734059011.93,2806.25
+South Dakota,Information,Information,7578.51,2492444954.02,475031477.17,866.0
+South Dakota,Management of Companies and Enterprises,Management of Companies and Enterprises,6378.84,1342582774.67,793688117.07,233.75
+South Dakota,Manufacturing,Manufacturing,29283.34,10757803359.98,2229766616.55,667.25
+South Dakota,Other Services (except Public Administration),Other Services (except Public Administration),34047.08,2839680026.36,1257488985.31,2516.75
+South Dakota,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",28520.25,3876918205.44,2070554888.43,5219.5
+South Dakota,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,38631.61,6920409007.28,1961398804.72,1332.0
+South Dakota,Retail Trade,Retail Trade,65145.71,9028931084.39,2616962504.24,3476.75
+South Dakota,Transportation and Warehousing,Transportation and Warehousing,22782.68,3208582171.69,1162869192.98,1254.75
+South Dakota,Utilities,Utilities,1739.28,1936270588.68,258932605.85,133.0
+South Dakota,Wholesale Trade,Wholesale Trade,12578.28,5769816993.64,1225929168.43,1906.0
+South Dakota,Working Landscapes,Agricultural Distribution,14091.36,3368316150.35,903379265.29,1404.25
+South Dakota,Working Landscapes,Agricultural Processing,11981.51,8895071442.1,859334674.3,169.5
+South Dakota,Working Landscapes,Agricultural Production,36145.52,11943165447.56,2173218315.13,1124.0
+South Dakota,Working Landscapes,Agricultural Support,9871.01,1687768714.85,606569379.23,684.75
+South Dakota,Working Landscapes,Fishing,197.42,5739992.43,2081107.2,0.0
+South Dakota,Working Landscapes,Forestry,5750.67,1673644248.08,387112019.86,179.25
+South Dakota,Working Landscapes,Mining,4703.19,1959090455.69,379360591.19,198.5
+South Dakota,Working Landscapes,Outdoor Recreation,3750.56,489106288.52,161162023.88,346.5
+South Dakota,Working Landscapes,Renewable Energy,134.05,156257709.93,19551017.73,6.25
+Tennessee,Accommodation and Food Services,Accommodation and Food Services,351046.27,34610535259.51,10737657847.43,16333.0
+Tennessee,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,325302.33,32705308891.34,15513119009.92,13976.25
+Tennessee,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",95649.2,13191074611.71,5307122099.44,3432.25
+Tennessee,Construction,Construction,285648.81,52975784587.22,21091127420.8,16936.0
+Tennessee,Educational Services,Educational Services,99343.36,8222127666.01,4833691419.94,2919.0
+Tennessee,Finance and Insurance,Finance and Insurance,255105.83,68969877959.06,22914653501.49,14010.0
+Tennessee,Government,Government,463914.42,212817982132.88,38402800463.6,4456.75
+Tennessee,Health Care and Social Assistance,Health Care and Social Assistance,484308.33,69310066642.43,36478422361.78,24004.0
+Tennessee,Information,Information,78291.88,38682173998.59,7999089284.65,10260.25
+Tennessee,Management of Companies and Enterprises,Management of Companies and Enterprises,65952.43,14725722563.42,8758479745.73,1680.25
+Tennessee,Manufacturing,Manufacturing,293730.2,159171396779.78,26745870426.86,7220.5
+Tennessee,Other Services (except Public Administration),Other Services (except Public Administration),283514.22,22843076199.04,10559826965.55,15162.0
+Tennessee,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",279069.46,46441549098.66,25287487336.6,30255.75
+Tennessee,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,239192.56,48427749337.99,13430005241.87,8166.75
+Tennessee,Retail Trade,Retail Trade,419353.44,60418746407.21,18619684968.08,23355.5
+Tennessee,Transportation and Warehousing,Transportation and Warehousing,304732.27,43418787248.02,18067621009.29,6506.25
+Tennessee,Utilities,Utilities,4081.46,3252600537.52,508519685.05,178.5
+Tennessee,Wholesale Trade,Wholesale Trade,115777.46,50583665109.08,12788144849.39,12732.0
+Tennessee,Working Landscapes,Agricultural Distribution,54093.29,11918314029.98,3798374810.58,3892.25
+Tennessee,Working Landscapes,Agricultural Processing,50149.21,29255686999.55,3760442781.7,1067.25
+Tennessee,Working Landscapes,Agricultural Production,77346.61,10641847186.68,2182498737.3,751.0
+Tennessee,Working Landscapes,Agricultural Support,26088.84,3977988484.96,1698376067.41,2099.75
+Tennessee,Working Landscapes,Fishing,963.93,113731014.23,34271422.45,24.0
+Tennessee,Working Landscapes,Forestry,36604.53,15444311673.56,3090780624.43,1419.0
+Tennessee,Working Landscapes,Mining,22721.25,9433413476.83,1858379106.07,1035.0
+Tennessee,Working Landscapes,Outdoor Recreation,16810.14,1803185309.09,641281258.51,1075.5
+Tennessee,Working Landscapes,Renewable Energy,420.93,585566423.93,81096785.04,80.5
+Texas,Accommodation and Food Services,Accommodation and Food Services,1485005.01,136729422986.29,44409656868.71,63862.75
+Texas,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,1347416.22,140181839317.96,70379216288.53,48480.75
+Texas,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",296755.76,24986001319.35,10526137048.28,8626.25
+Texas,Construction,Construction,1418573.13,262695065054.77,107171635960.42,63596.5
+Texas,Educational Services,Educational Services,350806.47,28718771343.83,17567231023.58,10705.0
+Texas,Finance and Insurance,Finance and Insurance,1576188.0,421466700819.29,153264244167.7,48428.5
+Texas,Government,Government,2270060.84,877474093170.44,185052971488.1,16914.75
+Texas,Health Care and Social Assistance,Health Care and Social Assistance,1941442.75,239574043243.09,131215419237.06,99692.0
+Texas,Information,Information,325311.13,170276281065.58,37725068094.39,15446.75
+Texas,Management of Companies and Enterprises,Management of Companies and Enterprises,273578.29,68693779302.14,41245310737.08,4753.75
+Texas,Manufacturing,Manufacturing,770938.97,601846989726.22,89069268728.97,21702.5
+Texas,Other Services (except Public Administration),Other Services (except Public Administration),1199911.37,91473833113.62,43295127683.18,61380.75
+Texas,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",1515924.87,279172763965.12,160466118428.63,125492.75
+Texas,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,1129760.16,245381136486.25,65855726110.96,41207.5
+Texas,Retail Trade,Retail Trade,1698928.64,224361588273.76,75053829361.24,78218.25
+Texas,Transportation and Warehousing,Transportation and Warehousing,1188706.77,203842841452.24,68532585139.74,25178.75
+Texas,Utilities,Utilities,48211.04,53827079046.27,9202040273.63,1290.0
+Texas,Wholesale Trade,Wholesale Trade,572485.13,284421865089.5,72203603167.51,40770.0
+Texas,Working Landscapes,Agricultural Distribution,243944.9,50325980438.97,16957617923.25,13345.0
+Texas,Working Landscapes,Agricultural Processing,152018.32,67102548651.05,10152960506.36,4268.5
+Texas,Working Landscapes,Agricultural Production,287885.23,47560731274.69,9923022134.85,8783.75
+Texas,Working Landscapes,Agricultural Support,142951.34,21700555051.89,9537761148.62,8866.25
+Texas,Working Landscapes,Fishing,9735.44,1325311260.22,420743058.13,305.75
+Texas,Working Landscapes,Forestry,76239.04,25665181408.44,5842099354.51,2708.25
+Texas,Working Landscapes,Mining,489407.62,389797019584.14,62172256492.63,13412.75
+Texas,Working Landscapes,Outdoor Recreation,57412.58,6035869085.4,2174649520.6,3388.25
+Texas,Working Landscapes,Renewable Energy,10157.24,10828700374.33,1644486900.59,393.5
+Utah,Accommodation and Food Services,Accommodation and Food Services,153454.19,14602779562.85,4362557385.57,6941.5
+Utah,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,121979.68,13074431968.79,6318476202.43,8817.5
+Utah,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",43548.91,2921159739.96,1244857507.63,1465.25
+Utah,Construction,Construction,172515.99,33213083657.96,13102316023.2,15414.75
+Utah,Educational Services,Educational Services,78827.88,5987620282.2,3452762071.63,2377.75
+Utah,Finance and Insurance,Finance and Insurance,187035.66,43381960049.99,15091293139.97,7816.0
+Utah,Government,Government,284052.04,134457279076.24,24362922572.02,3944.25
+Utah,Health Care and Social Assistance,Health Care and Social Assistance,207593.9,26210577859.69,13762947432.46,13288.0
+Utah,Information,Information,53677.35,25456138375.45,6136159296.99,5042.5
+Utah,Management of Companies and Enterprises,Management of Companies and Enterprises,39761.9,6489577377.14,3862911707.24,1448.25
+Utah,Manufacturing,Manufacturing,120329.84,60635091330.75,11207375222.12,4242.25
+Utah,Other Services (except Public Administration),Other Services (except Public Administration),117337.66,10661721470.08,4898336276.09,8128.0
+Utah,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",196772.61,32183029398.13,18337871197.13,25880.5
+Utah,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,168602.16,33087580918.3,9186314052.14,6374.25
+Utah,Retail Trade,Retail Trade,217323.52,31580049572.9,9931863231.99,10396.75
+Utah,Transportation and Warehousing,Transportation and Warehousing,109685.41,16921440061.53,6032673816.91,3165.5
+Utah,Utilities,Utilities,3794.3,3335249015.28,499492974.65,122.25
+Utah,Wholesale Trade,Wholesale Trade,53816.6,20209863675.64,5434243934.14,6101.5
+Utah,Working Landscapes,Agricultural Distribution,27599.67,5166941125.48,1662699897.75,1543.0
+Utah,Working Landscapes,Agricultural Processing,25945.54,13371455011.49,1771812062.53,681.0
+Utah,Working Landscapes,Agricultural Production,22177.3,4294989147.53,833699863.09,488.5
+Utah,Working Landscapes,Agricultural Support,12232.64,1583191662.6,704050908.19,1201.5
+Utah,Working Landscapes,Fishing,578.37,90630049.64,33061590.41,17.5
+Utah,Working Landscapes,Forestry,11992.5,3550085053.24,883647226.46,643.0
+Utah,Working Landscapes,Mining,23733.31,13565993839.75,2261283814.22,1001.25
+Utah,Working Landscapes,Outdoor Recreation,14962.71,1524262111.64,560039938.51,636.5
+Utah,Working Landscapes,Renewable Energy,819.36,824432290.43,113461217.79,96.75
+Vermont,Accommodation and Food Services,Accommodation and Food Services,32812.81,3744225919.4,1163179086.65,1818.25
+Vermont,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,20346.83,2192367033.69,1122583483.65,2971.25
+Vermont,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",10516.55,669800581.27,288107756.3,390.75
+Vermont,Construction,Construction,29544.79,4684623349.17,1963581716.93,3032.5
+Vermont,Educational Services,Educational Services,17551.03,1328549376.04,786507747.51,743.75
+Vermont,Finance and Insurance,Finance and Insurance,17597.6,4341179383.98,1553048896.77,1357.25
+Vermont,Government,Government,59325.61,28718341034.77,5045792926.94,1442.75
+Vermont,Health Care and Social Assistance,Health Care and Social Assistance,59008.18,7839265447.06,4210218703.04,2168.25
+Vermont,Information,Information,7140.35,2047062462.53,544884488.53,1235.25
+Vermont,Management of Companies and Enterprises,Management of Companies and Enterprises,2443.22,545315238.03,325969565.62,280.5
+Vermont,Manufacturing,Manufacturing,21011.41,6148026419.57,1806440711.64,642.0
+Vermont,Other Services (except Public Administration),Other Services (except Public Administration),23026.87,1930968022.85,900564184.73,2227.5
+Vermont,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",30848.54,4622786587.95,2682585691.24,6350.75
+Vermont,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,22192.05,3844284152.71,1194117497.86,737.5
+Vermont,Retail Trade,Retail Trade,43590.92,6110969650.39,1901102911.74,2675.25
+Vermont,Transportation and Warehousing,Transportation and Warehousing,10017.69,1258030464.01,515580027.76,507.25
+Vermont,Utilities,Utilities,1224.95,1275264282.55,208799446.77,30.5
+Vermont,Wholesale Trade,Wholesale Trade,6594.61,2742288143.02,659051052.73,1237.0
+Vermont,Working Landscapes,Agricultural Distribution,6348.58,1114519115.73,364094905.11,558.75
+Vermont,Working Landscapes,Agricultural Processing,7411.83,3463120385.94,468433844.49,298.0
+Vermont,Working Landscapes,Agricultural Production,10096.35,1903980341.43,410184420.65,439.5
+Vermont,Working Landscapes,Agricultural Support,4307.93,522962435.85,269601904.52,443.0
+Vermont,Working Landscapes,Fishing,172.02,11180669.47,4014124.81,5.5
+Vermont,Working Landscapes,Forestry,4113.69,1158162917.32,259506956.54,256.75
+Vermont,Working Landscapes,Mining,3054.79,787905423.16,204016324.62,147.0
+Vermont,Working Landscapes,Outdoor Recreation,2522.87,291196101.99,97894388.97,198.5
+Vermont,Working Landscapes,Renewable Energy,300.69,244043966.65,37892234.38,19.25
+Virginia,Accommodation and Food Services,Accommodation and Food Services,378112.48,37873926880.42,11806078816.19,18785.5
+Virginia,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,339080.86,38862684545.75,19462674702.92,16781.0
+Virginia,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",113395.03,9615398833.03,3699203054.05,3172.0
+Virginia,Construction,Construction,330683.55,62711775616.8,25444348565.44,23111.75
+Virginia,Educational Services,Educational Services,133175.33,10319314645.42,5984838406.45,4497.0
+Virginia,Finance and Insurance,Finance and Insurance,292849.96,92985768258.89,32297812351.17,13576.0
+Virginia,Government,Government,884556.3,674649585645.68,88656146903.31,8608.5
+Virginia,Health Care and Social Assistance,Health Care and Social Assistance,566714.61,76276548451.51,41647383919.94,50800.25
+Virginia,Information,Information,96273.64,52088679821.85,12784596278.61,6287.5
+Virginia,Management of Companies and Enterprises,Management of Companies and Enterprises,95024.85,27593169208.82,16448889465.19,2762.75
+Virginia,Manufacturing,Manufacturing,180399.3,80753008654.97,17303408986.24,6174.25
+Virginia,Other Services (except Public Administration),Other Services (except Public Administration),334712.02,31126563837.14,14634222764.13,29990.5
+Virginia,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",611486.25,135492255239.69,77145862511.24,53230.75
+Virginia,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,314459.46,61145037747.6,17981534340.68,12342.0
+Virginia,Retail Trade,Retail Trade,493360.24,63929329682.5,20197513916.49,23580.0
+Virginia,Transportation and Warehousing,Transportation and Warehousing,297350.87,37824293450.19,14014896786.84,6488.75
+Virginia,Utilities,Utilities,10347.13,11272839172.26,1783601575.55,333.25
+Virginia,Wholesale Trade,Wholesale Trade,100373.37,39736544103.99,12559431614.0,9338.5
+Virginia,Working Landscapes,Agricultural Distribution,49357.09,8641686886.04,2796289194.04,2969.5
+Virginia,Working Landscapes,Agricultural Processing,45016.23,19301261022.38,3010686153.82,1328.25
+Virginia,Working Landscapes,Agricultural Production,47340.49,7672227141.18,1618363770.69,1206.75
+Virginia,Working Landscapes,Agricultural Support,37002.12,5892696056.72,3008957578.61,2917.0
+Virginia,Working Landscapes,Fishing,3532.54,679809425.16,176848463.03,152.5
+Virginia,Working Landscapes,Forestry,32165.81,11584482724.83,2337805138.57,1409.0
+Virginia,Working Landscapes,Mining,21762.29,8928904520.47,1720198247.98,1045.25
+Virginia,Working Landscapes,Outdoor Recreation,15051.93,1416279181.16,509964888.07,1041.25
+Virginia,Working Landscapes,Renewable Energy,769.79,925783023.88,133925809.5,174.75
+Washington,Accommodation and Food Services,Accommodation and Food Services,311688.98,37725923090.28,11670023394.59,17604.5
+Washington,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,233962.23,37004989961.92,16343714534.41,13762.0
+Washington,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",93374.92,10189812492.16,3910833687.34,2323.5
+Washington,Construction,Construction,291250.26,64389282354.85,26093578154.29,26013.75
+Washington,Educational Services,Educational Services,86830.27,6296618304.03,3704646811.63,3987.25
+Washington,Finance and Insurance,Finance and Insurance,224459.16,84430642181.05,30051241974.9,10366.5
+Washington,Government,Government,665169.7,387528912025.3,71903204679.23,4953.75
+Washington,Health Care and Social Assistance,Health Care and Social Assistance,535493.54,77722770365.61,41865748358.18,22089.0
+Washington,Information,Information,186205.46,234233951355.02,54642080737.12,7971.25
+Washington,Management of Companies and Enterprises,Management of Companies and Enterprises,108762.83,48280097920.35,28584206055.57,742.25
+Washington,Manufacturing,Manufacturing,202612.93,131950471527.1,26060114132.48,4944.5
+Washington,Other Services (except Public Administration),Other Services (except Public Administration),237463.29,24444842705.88,11229229154.44,20238.75
+Washington,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",386165.74,89227454570.68,48340601730.87,34098.0
+Washington,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,275325.47,59077363637.91,17326073676.18,8062.75
+Washington,Retail Trade,Retail Trade,390073.36,65495897254.64,20007598538.73,17495.25
+Washington,Transportation and Warehousing,Transportation and Warehousing,280685.2,45761164068.51,16029451899.79,4853.25
+Washington,Utilities,Utilities,5039.79,6607325838.74,990456057.71,147.25
+Washington,Wholesale Trade,Wholesale Trade,104667.51,49884655276.4,13878463930.37,9694.25
+Washington,Working Landscapes,Agricultural Distribution,61596.83,13423044697.45,4209544757.77,3808.75
+Washington,Working Landscapes,Agricultural Processing,50638.27,21665243525.3,3502986366.17,1900.25
+Washington,Working Landscapes,Agricultural Production,112731.81,19847225027.94,5193756626.94,4676.25
+Washington,Working Landscapes,Agricultural Support,42611.5,5999750057.09,2947620658.89,3951.5
+Washington,Working Landscapes,Fishing,11933.11,4360351084.27,1129244025.68,374.0
+Washington,Working Landscapes,Forestry,38964.83,15258106142.18,3423898413.72,1534.25
+Washington,Working Landscapes,Mining,16462.21,7161668178.05,1372631256.22,688.5
+Washington,Working Landscapes,Outdoor Recreation,19101.62,2333576085.53,790176542.59,1398.75
+Washington,Working Landscapes,Renewable Energy,353.68,477325525.11,65607144.73,25.75
+West Virginia,Accommodation and Food Services,Accommodation and Food Services,67150.52,5517939017.97,1736019112.8,3805.25
+West Virginia,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,44980.76,4513585549.81,2226532419.28,4414.25
+West Virginia,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",13794.48,1035949269.25,295919766.75,904.25
+West Virginia,Construction,Construction,47204.54,8170732299.93,3359299289.57,4674.25
+West Virginia,Educational Services,Educational Services,14813.07,866723091.96,497610571.45,620.5
+West Virginia,Finance and Insurance,Finance and Insurance,30792.36,6506415788.49,2119811407.16,3030.75
+West Virginia,Government,Government,149937.8,80350371876.98,11605880282.21,3903.25
+West Virginia,Health Care and Social Assistance,Health Care and Social Assistance,139776.53,18501363426.43,9771590113.55,9928.25
+West Virginia,Information,Information,11128.5,3517092759.28,780419581.5,1311.0
+West Virginia,Management of Companies and Enterprises,Management of Companies and Enterprises,8658.33,1534353303.0,922144064.68,526.25
+West Virginia,Manufacturing,Manufacturing,37182.45,24911823632.22,3435569866.4,991.25
+West Virginia,Other Services (except Public Administration),Other Services (except Public Administration),47428.43,3567674014.37,1613392502.94,3684.5
+West Virginia,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",43263.79,5581455432.9,3107064413.44,7232.0
+West Virginia,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,33593.48,5564358033.12,1731186520.78,1722.25
+West Virginia,Retail Trade,Retail Trade,92595.41,10557341662.19,3487665272.7,6005.75
+West Virginia,Transportation and Warehousing,Transportation and Warehousing,35211.45,5362233505.66,1845366295.53,1606.0
+West Virginia,Utilities,Utilities,4794.95,4347813529.43,736052022.47,206.25
+West Virginia,Wholesale Trade,Wholesale Trade,17926.51,6357983780.36,1644371368.79,2521.5
+West Virginia,Working Landscapes,Agricultural Distribution,7760.02,1063589642.16,361283594.06,814.5
+West Virginia,Working Landscapes,Agricultural Processing,4613.63,1402390227.25,249268959.71,172.25
+West Virginia,Working Landscapes,Agricultural Production,23598.74,2641173799.8,571508661.02,143.25
+West Virginia,Working Landscapes,Agricultural Support,5713.4,831658152.28,334551214.36,580.0
+West Virginia,Working Landscapes,Fishing,118.45,17109125.69,4133812.15,1.5
+West Virginia,Working Landscapes,Forestry,7783.52,1951035809.05,442672578.98,498.25
+West Virginia,Working Landscapes,Mining,30534.6,19014549017.72,3167170232.82,880.0
+West Virginia,Working Landscapes,Outdoor Recreation,2683.16,211668819.01,78675911.49,202.75
+West Virginia,Working Landscapes,Renewable Energy,220.61,230320566.35,36138143.99,34.0
+Wisconsin,Accommodation and Food Services,Accommodation and Food Services,260778.4,20245814568.55,6707713787.99,14493.5
+Wisconsin,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,174248.1,17179774729.2,8304239532.94,10469.0
+Wisconsin,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",70454.0,5373298357.81,2463153775.24,2108.75
+Wisconsin,Construction,Construction,203598.21,39685897573.66,16396589519.92,15619.0
+Wisconsin,Educational Services,Educational Services,75763.36,6356048823.9,3662517388.63,1989.0
+Wisconsin,Finance and Insurance,Finance and Insurance,218728.96,61667586374.34,21348422582.39,10139.5
+Wisconsin,Government,Government,418968.85,141671433223.38,34466498606.03,7501.25
+Wisconsin,Health Care and Social Assistance,Health Care and Social Assistance,453900.75,60990419279.46,32920898115.21,37601.75
+Wisconsin,Information,Information,60272.11,25214989818.55,6664966468.2,3075.5
+Wisconsin,Management of Companies and Enterprises,Management of Companies and Enterprises,69292.3,15800676378.92,9481846055.76,2164.25
+Wisconsin,Manufacturing,Manufacturing,335380.47,125484037916.21,30009548398.75,6248.5
+Wisconsin,Other Services (except Public Administration),Other Services (except Public Administration),193169.88,16193992881.21,7472711224.41,12981.75
+Wisconsin,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",194276.8,30453669897.38,17059537057.47,21309.0
+Wisconsin,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,175568.23,33895197499.52,9532181830.89,5953.0
+Wisconsin,Retail Trade,Retail Trade,349709.14,42043072382.7,13559009500.98,15581.0
+Wisconsin,Transportation and Warehousing,Transportation and Warehousing,174349.02,21962484941.41,9106059514.13,5783.75
+Wisconsin,Utilities,Utilities,8312.93,8404387094.29,1395138062.45,248.75
+Wisconsin,Wholesale Trade,Wholesale Trade,102826.12,39051868162.21,11057756945.55,10390.5
+Wisconsin,Working Landscapes,Agricultural Distribution,58474.27,10800563239.17,3596774806.85,3729.5
+Wisconsin,Working Landscapes,Agricultural Processing,93280.99,58458932406.09,7292165066.19,1394.25
+Wisconsin,Working Landscapes,Agricultural Production,90135.55,18309976423.12,3792756933.7,2317.0
+Wisconsin,Working Landscapes,Agricultural Support,29074.37,5561977185.51,1947827661.57,1519.5
+Wisconsin,Working Landscapes,Fishing,1085.82,88011701.0,26630947.22,24.75
+Wisconsin,Working Landscapes,Forestry,59678.4,21323295154.4,4851937353.1,1401.0
+Wisconsin,Working Landscapes,Mining,13720.05,4831687694.95,1194445905.41,697.75
+Wisconsin,Working Landscapes,Outdoor Recreation,16522.4,1669054298.12,593756952.71,1148.5
+Wisconsin,Working Landscapes,Renewable Energy,358.12,256406032.49,39907735.64,32.0
+Wyoming,Accommodation and Food Services,Accommodation and Food Services,35956.23,3611350158.95,1138139786.2,1851.0
+Wyoming,Administrative and Support and Waste Management and Remediation Services,Administrative and Support and Waste Management and Remediation Services,16047.71,1588421666.96,747274485.83,2172.5
+Wyoming,"Arts, Entertainment, and Recreation","Arts, Entertainment, and Recreation",7383.77,527340125.56,198874508.66,290.25
+Wyoming,Construction,Construction,31995.46,5655285571.77,2307962546.43,3526.75
+Wyoming,Educational Services,Educational Services,5328.73,297641858.24,176633954.79,459.25
+Wyoming,Finance and Insurance,Finance and Insurance,41491.99,7548923147.59,3055121442.06,1625.75
+Wyoming,Government,Government,76379.33,33053999677.02,6070715065.39,1482.5
+Wyoming,Health Care and Social Assistance,Health Care and Social Assistance,31676.57,3419012439.5,1918387119.98,3383.0
+Wyoming,Information,Information,5389.55,1840068402.46,384256596.37,800.0
+Wyoming,Management of Companies and Enterprises,Management of Companies and Enterprises,3029.59,991612898.92,594447438.17,312.5
+Wyoming,Manufacturing,Manufacturing,9204.23,11338116436.58,864672246.79,418.25
+Wyoming,Other Services (except Public Administration),Other Services (except Public Administration),19797.67,1640353193.05,729172929.68,1724.0
+Wyoming,"Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",20827.58,2562289989.21,1458004072.22,3984.25
+Wyoming,Real Estate and Rental and Leasing,Real Estate and Rental and Leasing,37434.81,6149574932.48,1866101376.89,1077.5
+Wyoming,Retail Trade,Retail Trade,37317.52,4702067470.47,1499473673.39,2174.0
+Wyoming,Transportation and Warehousing,Transportation and Warehousing,18342.25,3467636058.87,1090441884.64,970.5
+Wyoming,Utilities,Utilities,2409.09,2166581372.33,358172934.26,93.5
+Wyoming,Wholesale Trade,Wholesale Trade,7524.33,2942545198.64,702741737.0,1059.0
+Wyoming,Working Landscapes,Agricultural Distribution,4747.07,748336682.88,246857204.97,507.25
+Wyoming,Working Landscapes,Agricultural Processing,2038.64,633751149.29,95756590.79,119.0
+Wyoming,Working Landscapes,Agricultural Production,14645.29,2439163456.15,479304716.01,462.0
+Wyoming,Working Landscapes,Agricultural Support,6433.04,964542787.13,352933678.79,517.5
+Wyoming,Working Landscapes,Fishing,188.86,17025262.27,5379464.57,1.0
+Wyoming,Working Landscapes,Forestry,1299.72,251252692.95,59290529.67,91.5
+Wyoming,Working Landscapes,Mining,23396.03,13677144552.71,2508696001.64,1036.0
+Wyoming,Working Landscapes,Outdoor Recreation,3510.61,359969733.77,123709816.36,390.5
+Wyoming,Working Landscapes,Renewable Energy,132.67,87206160.87,12983292.75,21.75
