@@ -137,11 +137,10 @@ with st.expander("See the numbers"):
     st.markdown("**California sectors**")
     numbers(sectors.sort_values(key, ascending=False).reset_index().rename(
         columns={"sector": "Sector", "jobs": "Jobs", "sales": "Sales (US$)",
-                 "earnings": "Earnings (US$)", "businesses": "Businesses"}), "california_sectors.csv")
+                 "earnings": "Earnings (US$)", "businesses": "Businesses"}))
     st.markdown("**Working landscapes segments**")
     numbers(segments.reset_index().rename(
         columns={"segment": "Segment", "jobs": "Jobs", "sales": "Sales (US$)",
-                 "earnings": "Earnings (US$)", "businesses": "Businesses"}), "california_segments.csv")
+                 "earnings": "Earnings (US$)", "businesses": "Businesses"}))
     st.markdown(f"**{label} by region and segment**")
-    numbers(pivot[SEGMENTS + [ALL_WL]].reset_index().rename(columns={"place": "Region"}),
-            f"regions_by_segment_{key}.csv")
+    numbers(pivot[SEGMENTS + [ALL_WL]].reset_index().rename(columns={"place": "Region"}))

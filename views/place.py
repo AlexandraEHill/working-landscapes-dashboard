@@ -7,8 +7,8 @@ import plotly.graph_objects as go
 import streamlit as st
 
 from common import (
-    ACCENT, ALL_WL, INK, MEASURES, REDACTION_NOTE, SEGMENT_COLORS, SEGMENTS,
-    ca_share, current_measure, fmt, hbar, numbers, pct, places, region_counties,
+    ACCENT, ALL_WL, INK, KEYS, MEASURES, REDACTION_NOTE, SEGMENT_COLORS, SEGMENTS,
+    ca_share, current_measure, fmt, hbar, load_county_industries, numbers, pct, places, region_counties,
     show, takeaway, times,
 )
 
@@ -152,7 +152,67 @@ profile = profile.reset_index().rename(
     columns={"segment": "Segment", "jobs": "Jobs", "sales": "Sales (US$)",
              "earnings": "Earnings (US$)", "businesses": "Businesses"}
 )
-numbers(profile, f"{place.replace(' ', '_').lower()}_profile.csv", f"Download {place} profile (CSV)")
+numbers(profile)
+
+# ---- industries within the place
+st.subheader(f"Top industries in {place}")
+industry_segment = st.selectbox("Segment", [ALL_WL] + SEGMENTS, key="industry_segment")
+detail = load_county_industries()
+detail = detail[detail[level.lower()] == place]
+if industry_segment != ALL_WL:
+    detail = detail[detail["segment"] == industry_segment]
+detail = (
+    detail.groupby(["industry", "naics", "segment"], as_index=False)[KEYS + ["jobs_under_10"]]
+    .sum()
+    .sort_values([key, "sales"], ascending=False)
+)
+scope = "working landscapes" if industry_segment == ALL_WL else industry_segment.lower()
+if detail[key].sum() == 0:
+    st.info(f"No {scope} {measure['noun']} are reported for {place}.")
+else:
+    scope_total = detail[key].sum()
+    top = detail.head(10)
+    takeaway(
+        f"The largest {scope} industry in {place} by {measure['noun']} is **{top['industry'].iloc[0]}** "
+        f"({fmt(top[key].iloc[0], money)}, {pct(100 * top[key].iloc[0] / scope_total)} of the "
+        f"{'working landscapes' if industry_segment == ALL_WL else 'segment'} total)."
+    )
+    show(
+        hbar(
+            [i if len(i) <= 48 else i[:46] + "…" for i in top["industry"]],
+            top[key].values,
+            [fmt(v, money) for v in top[key]],
+            [SEGMENT_COLORS[s] for s in top["segment"]],
+            [
+                f"<b>{row['industry']}</b><br>NAICS {row['naics']} · {row['segment']}<br>"
+                f"{fmt(row[key], money)} {measure['noun']}<br>{pct(100 * row[key] / scope_total)} of {scope} in {place}"
+                for _, row in top.iterrows()
+            ],
+            f"{label}, 2024 (top 10 industries)",
+        )
+    )
+    table = pd.DataFrame({
+        "Industry": detail["industry"],
+        "NAICS code": detail["naics"].astype(str),
+        "Segment": detail["segment"],
+        "Jobs": detail["jobs"],
+        "Sales (US$)": detail["sales"],
+        "Earnings (US$)": detail["earnings"],
+        "Businesses": detail["businesses"],
+        f"Share of {scope} {measure['noun']} (%)": 100 * detail[key] / scope_total,
+    })
+    if level == "County":
+        # Lightcast withholds job counts under 10; leave those cells blank.
+        table["Jobs"] = table["Jobs"].where(detail["jobs_under_10"] == 0)
+    numbers(table)
+    st.caption(
+        f"All {len(table)} industries with reported activity, largest first; click a column heading to re-sort. "
+        + (
+            "A blank Jobs cell means fewer than 10 jobs: the exact number is withheld, and it is counted as 10 in the segment totals above."
+            if level == "County"
+            else "Where an industry has fewer than 10 jobs in a county the exact number is withheld, and it is counted as 10 jobs here."
+        )
+    )
 
 if level == "Region" and len(regions[place]) > 1:
     with st.expander("Counties in this region"):

@@ -177,7 +177,7 @@ with st.expander("See the numbers"):
     table[f"Share of local {measure['noun']} (%)"] = view["share"].values
     table["Specialization vs California"] = view["spec"].values
     table["Rank"] = range(1, len(view) + 1)
-    numbers(table, f"{name.replace(' ', '_').lower()}_by_{level.lower()}.csv")
+    numbers(table)
 
 st.caption(REDACTION_NOTE)
 if level == "County" and mode != "Total":

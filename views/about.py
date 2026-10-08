@@ -18,6 +18,7 @@ st.write(
     "Regional Economies* (Dompka, Hill and Wilcher, 2025). It shows the same data as the "
     "report, for the year 2024."
 )
+st.link_button("Read the full report", REPORT_URL, icon=":material/open_in_new:")
 
 st.header("What counts as working landscapes")
 st.write(
@@ -31,9 +32,7 @@ for segment in SEGMENTS:
 numbers(
     industries[["segment", "naics", "industry"]].rename(
         columns={"segment": "Segment", "naics": "NAICS code", "industry": "Industry"}
-    ).astype({"NAICS code": str}),
-    "working_landscapes_industry_list.csv",
-    "Download the industry list (CSV)",
+    ).astype({"NAICS code": str})
 )
 
 st.header("The four measures")
@@ -109,14 +108,5 @@ st.markdown(
     "self-employed and proprietors.\n\n"
     "Suggested citation: Dompka, A., Hill, A. E., and Wilcher, A. (2025). *California's "
     "Working Landscapes: Evolving Contributions to National, State, and Regional "
-    f"Economies.* University of California Agriculture and Natural Resources. [UC ANR]({REPORT_URL})"
+    f"Economies.* University of California Agriculture and Natural Resources. {REPORT_URL}"
 )
-st.subheader("Download the dashboard data")
-downloads = {
-    "Counties by segment": (county_segments, "county_segments.csv"),
-    "County all-industry totals": (county_totals, "county_totals.csv"),
-    "States by sector and segment": (states, "state_sectors.csv"),
-    "California industries": (industries, "ca_industries.csv"),
-}
-for column, (label, (table, filename)) in zip(st.columns(4), downloads.items()):
-    column.download_button(label, table.to_csv(index=False), filename, "text/csv")

@@ -82,7 +82,7 @@ with states_tab:
                      "us_share": "Share of US (%)", "spec": "Specialization vs US",
                      "rank": "Rank", "spec_rank": "Specialization rank"}
         )
-        numbers(table, f"{name.replace(' ', '_')}_{key}_by_state.csv")
+        numbers(table)
 
 # ---- industries inside the segment
 with industries_tab:
@@ -128,5 +128,5 @@ with industries_tab:
         f"Share of segment {measure['noun']} (%)": 100 * industries[key] / total,
         f"California share of US {measure['noun']} (%)": (100 * industries[key] / industries[key + "_us"]).where(industries[key + "_us"] > 0),
     })
-    numbers(table, f"{name.replace(' ', '_')}_industries.csv")
-    st.caption("Industry detail is available for California as a whole only, not for counties or regions.")
+    numbers(table)
+    st.caption("These are statewide figures. For the industries in one county or region, see *Your county or region*.")
