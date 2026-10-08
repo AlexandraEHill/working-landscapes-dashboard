@@ -80,7 +80,7 @@ to stop it.
 | `views/compare.py` | Compare places (ranked list and county map) |
 | `views/segments.py` | Segments and the nation |
 | `views/about.py` | About the data |
-| `data/` | Four small CSV files and the county map outline that the app reads |
+| `data/` | Five small CSV files and the county map outline that the app reads |
 | `docs/DESIGN.md` | The design brief the app was built from |
 | `requirements.txt` | Tells Streamlit which Python packages to install |
 

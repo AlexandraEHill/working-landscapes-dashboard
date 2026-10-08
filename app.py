@@ -10,6 +10,10 @@ from common import MEASURES
 
 st.set_page_config(page_title="California's Working Landscapes", page_icon="🌾", layout="wide")
 
+# Tables come with a small hover toolbar that includes "Download as CSV".
+# The data cannot be redistributed, so hide that toolbar everywhere.
+st.html("<style>[data-testid='stElementToolbar'] { display: none; }</style>")
+
 page = st.navigation(
     [
         st.Page("views/overview.py", title="Overview", icon=":material/home:", default=True),

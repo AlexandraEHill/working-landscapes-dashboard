@@ -14,7 +14,7 @@ DATA = Path(__file__).parent / "data"
 
 ALL_WL = "All working landscapes"
 WL_SECTOR = "Working Landscapes"
-REPORT_URL = "https://ucanr.edu/"  # TODO: replace with the direct link to the report PDF
+REPORT_URL = "https://ucanr.edu/working-landscapes-2025"
 
 # label -> column name, wording, and whether the value is in dollars
 MEASURES = {
@@ -114,6 +114,12 @@ def load():
     states = pd.read_csv(DATA / "state_sectors.csv")
     industries = pd.read_csv(DATA / "ca_industries.csv")
     return county_segments, county_totals, states, industries
+
+
+@st.cache_data
+def load_county_industries():
+    """Working landscapes industries (NAICS) for each county."""
+    return pd.read_csv(DATA / "county_industries.csv")
 
 
 @st.cache_data
@@ -286,8 +292,8 @@ def show(fig):
     st.plotly_chart(fig, width="stretch", config={"displayModeBar": False})
 
 
-def numbers(table, filename, label="Download this table (CSV)"):
-    """A table with a CSV download button. The CSV keeps full precision."""
+def numbers(table):
+    """A formatted, sortable table."""
     config = {}
     shown = table.copy()
     for col in table.columns:
@@ -301,7 +307,6 @@ def numbers(table, filename, label="Download this table (CSV)"):
             config[col] = st.column_config.NumberColumn(format="localized")
             shown[col] = shown[col].round(0)
     st.dataframe(shown, hide_index=True, column_config=config, width="stretch")
-    st.download_button(label, table.to_csv(index=False), filename, "text/csv", key=f"dl_{filename}")
 
 
 def takeaway(text):
