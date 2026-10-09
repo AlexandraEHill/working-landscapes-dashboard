@@ -5,8 +5,8 @@ import plotly.express as px
 import streamlit as st
 
 from common import (
-    ACCENT, ALL_WL, MEASURES, REDACTION_NOTE, SEGMENT_COLORS, SEGMENTS,
-    ca_share, current_measure, fmt, hbar, load_map, numbers, pct, place_view,
+    ACCENT, ALL_WL, INK, MEASURES, REDACTION_NOTE, SEGMENT_COLORS, SEGMENTS,
+    ca_share, current_measure, describe, fmt, hbar, load_map, numbers, pct, place_view,
     region_counties, show, takeaway, times,
 )
 
@@ -81,7 +81,7 @@ else:
 
 suffix = {"Total": "", "Share of local economy": " as a share of each local economy",
           "Specialization": ": specialization compared with California"}[mode]
-st.subheader(f"{name} {measure['noun']} by {level.lower()}, 2024{suffix}")
+st.header(f"{name} {measure['noun']} by {level.lower()}, 2024{suffix}")
 
 geojson = load_map()
 if geojson:
@@ -102,6 +102,7 @@ with list_tab:
     }[mode]
     axis = {"Total": f"{label}, 2024", "Share of local economy": f"Share of all local {measure['noun']}",
             "Specialization": "Local share compared with California's share"}[mode]
+    describe(f"Bar chart of {name.lower()} {measure['noun']} by {level.lower()}, largest first. The values are in the table under See the numbers.")
     show(
         hbar(
             shown.index,
@@ -159,12 +160,13 @@ if map_tab:
             category_orders={"class": list(colors)},
             custom_data=["hover"],
         )
-        fig.update_traces(hovertemplate="%{customdata[0]}<extra></extra>", marker_line=dict(color="#ffffff", width=0.7))
+        fig.update_traces(hovertemplate="%{customdata[0]}<extra></extra>", marker_line=dict(color=INK, width=0.6))
         fig.update_geos(fitbounds="locations", visible=False)
         fig.update_layout(
             height=620, margin=dict(l=0, r=0, t=0, b=0), dragmode=False,
             legend=dict(title=axis, yanchor="top", y=0.98, xanchor="right", x=0.99),
         )
+        describe(f"Map of California counties shaded by {name.lower()} {measure['noun']}. The same values are in the Ranked list tab and in the table under See the numbers.")
         show(fig)
         if level == "Region":
             st.caption("Each county is shaded with the value for its whole region.")

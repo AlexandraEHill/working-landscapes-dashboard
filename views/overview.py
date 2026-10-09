@@ -4,8 +4,8 @@ import plotly.graph_objects as go
 import streamlit as st
 
 from common import (
-    ACCENT, AG_SEGMENTS, ALL_WL, MEASURES, NEUTRAL, SEGMENT_COLORS, SEGMENTS, WL_SECTOR,
-    california, current_measure, fmt, hbar, numbers, ordinal, pct, places, show, takeaway,
+    ACCENT, AG_SEGMENTS, ALL_WL, INK, MEASURES, NEUTRAL, SEGMENT_COLORS, SEGMENTS, WL_SECTOR,
+    california, current_measure, describe, fmt, hbar, numbers, ordinal, pct, places, show, takeaway,
 )
 
 label, measure = current_measure()
@@ -36,11 +36,12 @@ ranked = sectors[key].sort_values(ascending=False)
 rank = list(ranked.index).index(WL_SECTOR) + 1
 shares = 100 * ranked / total[key]
 
-st.subheader(f"Working landscapes rank {ordinal(rank)} of {len(ranked)} California sectors by {measure['noun']}")
+st.header(f"Working landscapes rank {ordinal(rank)} of {len(ranked)} California sectors by {measure['noun']}")
 st.caption(
     "Working landscapes industries are removed from their usual sectors (for example, "
     "food manufacturing leaves Manufacturing), so nothing is counted twice."
 )
+describe(f"Bar chart of {measure['noun']} for each California sector, largest first. The values are in the California sectors table under See the numbers.")
 show(
     hbar(
         ranked.index,
@@ -59,7 +60,7 @@ show(
 by_segment = segments.loc[SEGMENTS, key].sort_values(ascending=False)
 ag = segments.loc[AG_SEGMENTS, key].sum()
 
-st.subheader(f"What the sector is made of: {measure['noun']} by segment")
+st.header(f"What the sector is made of: {measure['noun']} by segment")
 takeaway(
     f"**{by_segment.index[0]}** is the largest segment by {measure['noun']} "
     f"({fmt(by_segment.iloc[0], money)}). The four agricultural segments together account "
@@ -71,6 +72,7 @@ with st.popover("What is a segment?"):
         "detailed industries into nine segments. See *Segments and the nation* for "
         "the industries inside each one."
     )
+describe(f"Bar chart of {measure['noun']} for each of the nine segments. The values are in the segments table under See the numbers.")
 show(
     hbar(
         by_segment.index,
@@ -92,7 +94,7 @@ pivot = region_segments.pivot(index="place", columns="segment", values=key)
 pivot = pivot.sort_values(ALL_WL, ascending=False)
 top_two = pivot[ALL_WL].iloc[:2]
 
-st.subheader(f"Working landscapes {measure['noun']} by California Jobs First region")
+st.header(f"Working landscapes {measure['noun']} by California Jobs First region")
 takeaway(
     f"**{top_two.index[0]}** and **{top_two.index[1]}** are the largest contributors, with "
     f"{fmt(top_two.sum(), money)} between them ({pct(100 * top_two.sum() / pivot[ALL_WL].sum())} "
@@ -105,7 +107,7 @@ for segment in SEGMENTS:
         y=pivot.index,
         x=pivot[segment],
         orientation="h",
-        marker=dict(color=SEGMENT_COLORS[segment], line=dict(color="#ffffff", width=1)),
+        marker=dict(color=SEGMENT_COLORS[segment], line=dict(color=INK, width=1)),
         hovertext=[
             f"<b>{region}</b><br>{segment}: {fmt(v, money)}<br>{pct(100 * v / whole)} of the region's working landscapes"
             for region, v, whole in zip(pivot.index, pivot[segment], pivot[ALL_WL])
@@ -126,6 +128,7 @@ fig.update_layout(
                range=[0, pivot[ALL_WL].max() * 1.25]),
     yaxis=dict(autorange="reversed", automargin=True, fixedrange=True, ticksuffix="  "),
 )
+describe(f"Stacked bar chart of working landscapes {measure['noun']} for each region, split by segment. The values are in the region table under See the numbers.")
 show(fig)
 st.caption(
     "Region figures are sums of county data and can fall short of the statewide totals "

@@ -30,9 +30,11 @@ st.write(
 for segment in SEGMENTS:
     st.markdown(f"- **{segment}.** {SEGMENT_ABOUT[segment]}")
 numbers(
-    industries[["segment", "naics", "industry"]].rename(
-        columns={"segment": "Segment", "naics": "NAICS code", "industry": "Industry"}
-    ).astype({"NAICS code": str})
+    industries[["industry", "naics", "segment"]].rename(
+        columns={"industry": "Industry", "naics": "NAICS code", "segment": "Segment"}
+    ).astype({"NAICS code": str}),
+    limit=10,
+    key="industry_list",
 )
 
 st.header("The four measures")
@@ -65,13 +67,11 @@ st.write(
     "Counties are grouped into the 13 California Jobs First regions, which bring "
     "together counties with shared economic ties."
 )
-st.dataframe(
+st.table(
     pd.DataFrame(
         [(region, ", ".join(counties)) for region, counties in sorted(region_counties().items())],
         columns=["Region", "Counties"],
-    ),
-    hide_index=True,
-    width="stretch",
+    ).set_index("Region")
 )
 
 st.header("Specialization (location quotient)")
@@ -99,6 +99,16 @@ st.write(
     "All figures are for 2024. The dashboard does not show trends. The 2019 edition of "
     "the report used an older set of industry codes and different regions, so its "
     "figures are not directly comparable."
+)
+
+st.header("Accessibility")
+st.markdown(
+    "This dashboard is designed to follow the Web Content Accessibility Guidelines "
+    "(WCAG) 2.1, Level AA.\n\n"
+    "If you have trouble using any part of the dashboard, or need the information in "
+    "another format, please contact the author at "
+    "[alihill@berkeley.edu](mailto:alihill@berkeley.edu) or see "
+    "[UC ANR Digital Accessibility](https://ucanr.edu/dept/digital-accessibility)."
 )
 
 st.header("Source and citation")

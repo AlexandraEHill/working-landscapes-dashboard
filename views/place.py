@@ -8,7 +8,7 @@ import streamlit as st
 
 from common import (
     ACCENT, ALL_WL, INK, KEYS, MEASURES, REDACTION_NOTE, SEGMENT_COLORS, SEGMENTS,
-    ca_share, current_measure, fmt, hbar, load_county_industries, numbers, pct, places, region_counties,
+    ca_share, current_measure, describe, fmt, hbar, load_county_industries, numbers, pct, places, region_counties,
     show, takeaway, times,
 )
 
@@ -71,7 +71,8 @@ for column, (name, m) in zip(st.columns(4), MEASURES.items()):
 all_counties = places("County")[0]
 statewide = all_counties.groupby("segment")[key].sum()
 
-st.subheader(f"{label} by segment in {place}, 2024")
+st.header(f"{label} by segment in {place}, 2024")
+describe(f"Bar chart of {measure['noun']} by segment in {place}. The values are in the Full profile table below.")
 show(
     hbar(
         ranked.index,
@@ -88,7 +89,7 @@ show(
 )
 
 # ---- specialization
-st.subheader(f"Where {place} is more specialized than California")
+st.header(f"Where {place} is more specialized than California")
 with st.popover("How to read this"):
     st.write(
         "A value of 2x means this segment makes up twice as large a share of the "
@@ -112,7 +113,7 @@ fig = go.Figure(
             size=16,
             color=[SEGMENT_COLORS[s] for s in dots.index],
             symbol=["circle-open" if s else "circle" for s in small],
-            line=dict(width=2.5, color=[SEGMENT_COLORS[s] for s in dots.index]),
+            line=dict(width=2, color=INK),
         ),
         hovertext=[
             f"<b>{s}</b><br>{times(v)} the California average<br>Local share: {pct(share[s])}<br>"
@@ -136,13 +137,14 @@ fig.update_layout(
                title=f"Share of local {measure['noun']} compared with California's share"),
     yaxis=dict(autorange="reversed", automargin=True, fixedrange=True, ticksuffix="  "),
 )
+describe(f"Dot chart of specialization by segment in {place}, compared with California. The values are in the Full profile table below.")
 show(fig)
 missing = [s for s in SEGMENTS if s not in dots.index]
 if missing:
     st.caption(f"Not shown (none reported): {', '.join(missing)}.")
 
 # ---- full profile table
-st.subheader(f"Full profile: {place}")
+st.header(f"Full profile: {place}")
 profile = mine.loc[SEGMENTS + [ALL_WL], ["jobs", "sales", "earnings", "businesses"]].copy()
 profile[f"Share of local {measure['noun']} (%)"] = share
 profile["Specialization vs California"] = spec
@@ -155,7 +157,7 @@ profile = profile.reset_index().rename(
 numbers(profile)
 
 # ---- industries within the place
-st.subheader(f"Top industries in {place}")
+st.header(f"Top industries in {place}")
 industry_segment = st.selectbox("Segment", [ALL_WL] + SEGMENTS, key="industry_segment")
 detail = load_county_industries()
 detail = detail[detail[level.lower()] == place]
@@ -177,6 +179,7 @@ else:
         f"({fmt(top[key].iloc[0], money)}, {pct(100 * top[key].iloc[0] / scope_total)} of the "
         f"{'working landscapes' if industry_segment == ALL_WL else 'segment'} total)."
     )
+    describe(f"Bar chart of the ten largest {scope} industries in {place} by {measure['noun']}. The values are in the table below.")
     show(
         hbar(
             [i if len(i) <= 48 else i[:46] + "…" for i in top["industry"]],
@@ -204,11 +207,11 @@ else:
     if level == "County":
         # Lightcast withholds job counts under 10; leave those cells blank.
         table["Jobs"] = table["Jobs"].where(detail["jobs_under_10"] == 0)
-    numbers(table)
+    numbers(table, limit=25, key="place_industries")
     st.caption(
-        f"All {len(table)} industries with reported activity, largest first; click a column heading to re-sort. "
+        f"{len(table)} industries with reported activity, largest first. "
         + (
-            "A blank Jobs cell means fewer than 10 jobs: the exact number is withheld, and it is counted as 10 in the segment totals above."
+            "A dash in the Jobs column means fewer than 10 jobs: the exact number is withheld, and it is counted as 10 in the segment totals above."
             if level == "County"
             else "Where an industry has fewer than 10 jobs in a county the exact number is withheld, and it is counted as 10 jobs here."
         )
@@ -218,6 +221,7 @@ if level == "Region" and len(regions[place]) > 1:
     with st.expander("Counties in this region"):
         counties = all_counties[(all_counties["segment"] == ALL_WL) & all_counties["place"].isin(regions[place])]
         counties = counties.set_index("place")[key].sort_values(ascending=False)
+        describe(f"Bar chart of working landscapes {measure['noun']} for each county in {place}. The values are in the table below.")
         show(
             hbar(
                 counties.index, counties.values, [fmt(v, money) for v in counties.values], ACCENT,
@@ -225,5 +229,6 @@ if level == "Region" and len(regions[place]) > 1:
                 f"Working landscapes {measure['noun']}, 2024",
             )
         )
+        numbers(pd.DataFrame({"County": counties.index, f"Working landscapes {measure['noun']}": counties.values}))
 
 st.caption(REDACTION_NOTE)

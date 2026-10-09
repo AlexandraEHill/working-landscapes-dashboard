@@ -5,7 +5,7 @@ import streamlit as st
 
 from common import (
     ACCENT, ALL_WL, MEASURES, NEUTRAL, SEGMENT_ABOUT, SEGMENT_COLORS, SEGMENTS,
-    current_measure, fmt, hbar, load, numbers, pct, show, state_view, takeaway, times,
+    current_measure, describe, fmt, hbar, load, numbers, pct, show, state_view, takeaway, times,
 )
 
 label, measure = current_measure()
@@ -52,13 +52,14 @@ with states_tab:
         shown = pd.concat([shown, ordered.loc[["California"]]])
 
     if by_total:
-        st.subheader(f"{name.capitalize()} {measure['noun']}: California and the other leading states")
+        st.header(f"{name.capitalize()} {measure['noun']}: California and the other leading states")
     else:
-        st.subheader(f"Where {name} is an unusually large part of the state economy")
+        st.header(f"Where {name} is an unusually large part of the state economy")
         takeaway(
             f"{name.capitalize()} is **{times(ca['spec'])}** as large a part of California's economy as it "
             f"is of the US economy; California ranks #{ca['spec_rank']:.0f} on this basis."
         )
+    describe(f"Bar chart of the leading states for {name} {measure['noun']}. The values for all states are in the table under See the numbers.")
     show(
         hbar(
             [f"{s} (#{r:.0f})" for s, r in zip(shown.index, shown[rank_column])],
@@ -93,12 +94,13 @@ with industries_tab:
     total = industries[key].sum()
     top = industries.head(15)
 
-    st.subheader(f"Largest industries in California's {name}, by {measure['noun']}")
+    st.header(f"Largest industries in California's {name}, by {measure['noun']}")
     takeaway(
         f"The largest industry is **{top['industry'].iloc[0]}** ({fmt(top[key].iloc[0], money)}, "
         f"**{pct(100 * top[key].iloc[0] / total)}** of the segment). The top five industries make up "
         f"{pct(100 * top[key].head(5).sum() / total)}."
     )
+    describe(f"Bar chart of the largest industries in California's {name} by {measure['noun']}. The values are in the table below.")
     show(
         hbar(
             [i if len(i) <= 48 else i[:46] + "…" for i in top["industry"]],
@@ -128,5 +130,5 @@ with industries_tab:
         f"Share of segment {measure['noun']} (%)": 100 * industries[key] / total,
         f"California share of US {measure['noun']} (%)": (100 * industries[key] / industries[key + "_us"]).where(industries[key + "_us"] > 0),
     })
-    numbers(table)
+    numbers(table, limit=25, key="segment_industries")
     st.caption("These are statewide figures. For the industries in one county or region, see *Your county or region*.")
