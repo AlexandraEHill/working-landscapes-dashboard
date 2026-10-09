@@ -12,7 +12,14 @@ st.set_page_config(page_title="California's Working Landscapes", page_icon="🌾
 
 # Tables come with a small hover toolbar that includes "Download as CSV".
 # The data cannot be redistributed, so hide that toolbar everywhere.
-st.html("<style>[data-testid='stElementToolbar'] { display: none; }</style>")
+st.html(
+    """<style>
+    [data-testid='stElementToolbar'] { display: none; }
+    /* text for screen readers only (chart descriptions) */
+    .sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0;
+               overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+    </style>"""
+)
 
 page = st.navigation(
     [
@@ -36,6 +43,9 @@ if page.title != "About the data":
     )
     st.session_state["measure_label"] = choice or "Jobs"
     st.caption(MEASURES[st.session_state["measure_label"]]["help"])
+
+# Give each page its own browser tab title, so screen reader users can tell them apart.
+st.set_page_config(page_title=f"{page.title} | California's Working Landscapes")
 
 page.run()
 

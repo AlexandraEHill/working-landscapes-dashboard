@@ -73,7 +73,7 @@ SEGMENTS = list(SEGMENT_COLORS)
 AG_SEGMENTS = SEGMENTS[:4]
 ACCENT = "#1f7a1f"
 NEUTRAL = "#b8bdc4"
-INK = "#333333"
+INK = "#333333"  # chart text, reference lines and mark outlines
 
 # Short descriptions written for this dashboard from the industry lists.
 SEGMENT_ABOUT = {
@@ -261,7 +261,7 @@ def hbar(labels, values, texts, colors, hovers, axis_title, reference=None, heig
             text=list(texts),
             textposition="outside",
             cliponaxis=False,
-            marker=dict(color=colors, line=dict(color="#ffffff", width=1)),
+            marker=dict(color=colors, line=dict(color=INK, width=1)),
             hovertext=list(hovers),
             hoverinfo="text",
         )
@@ -288,25 +288,40 @@ def hbar(labels, values, texts, colors, hovers, axis_title, reference=None, heig
     return fig
 
 
+def describe(text):
+    """A short description of the chart that follows, for screen readers only
+    (charts themselves cannot be read aloud). Styled by .sr-only in app.py."""
+    st.html(f"<p class='sr-only'>{text}</p>")
+
+
 def show(fig):
-    st.plotly_chart(fig, width="stretch", config={"displayModeBar": False})
+    # theme=None keeps our own dark text; Streamlit's chart theme uses a grey
+    # that is too faint to meet contrast requirements.
+    fig.update_layout(font=dict(color=INK, size=13), paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
+    st.plotly_chart(fig, width="stretch", theme=None, config={"displayModeBar": False})
 
 
-def numbers(table):
-    """A formatted, sortable table."""
-    config = {}
+def numbers(table, limit=None, key=None):
+    """A formatted table. The first column becomes the row headings.
+
+    This is a plain HTML table rather than Streamlit's interactive grid,
+    because screen readers can read every row of a plain table.
+    limit: show only the first rows, with a switch to show them all.
+    """
     shown = table.copy()
-    for col in table.columns:
+    for col in table.columns[1:]:
         if not pd.api.types.is_numeric_dtype(table[col]):
             continue
         if "%" in col:
-            config[col] = st.column_config.NumberColumn(format="%.1f%%")
+            shown[col] = table[col].map(pct)
         elif "pecialization" in col and "rank" not in col:
-            config[col] = st.column_config.NumberColumn(format="%.2f×")
-        elif "ank" not in col:
-            config[col] = st.column_config.NumberColumn(format="localized")
-            shown[col] = shown[col].round(0)
-    st.dataframe(shown, hide_index=True, column_config=config, width="stretch")
+            shown[col] = table[col].map(lambda v: "–" if pd.isna(v) else f"{v:.2f}x")
+        else:
+            shown[col] = table[col].map(lambda v: "–" if pd.isna(v) else f"{v:,.0f}")
+    if limit and len(shown) > limit:
+        if not st.toggle(f"Show all {len(shown)} rows", key=f"all_rows_{key}"):
+            shown = shown.head(limit)
+    st.table(shown.set_index(shown.columns[0]))
 
 
 def takeaway(text):
